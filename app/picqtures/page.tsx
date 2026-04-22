@@ -35,13 +35,13 @@ const BOOKING_URL = "mailto:contact@picqtures.fr?subject=Appel%20Picqtures";
 const WEBSITE_URL = "https://picqtures.fr";
 
 const buttonPrimaryClass =
-  "inline-flex items-center justify-center gap-2 rounded-full bg-black px-6 py-4 text-sm font-semibold !text-white [color:#ffffff] shadow-[0_16px_32px_rgba(0,0,0,0.18)]";
+  "picqtures-black-button inline-flex items-center justify-center gap-2 rounded-full bg-black px-6 py-4 text-sm font-semibold text-white shadow-[0_16px_32px_rgba(0,0,0,0.18)]";
 const buttonCompactClass =
-  "inline-flex items-center gap-2 rounded-full bg-black px-5 py-3 text-sm font-semibold !text-white [color:#ffffff] shadow-[0_12px_24px_rgba(0,0,0,0.14)]";
+  "picqtures-black-button inline-flex items-center gap-2 rounded-full bg-black px-5 py-3 text-sm font-semibold text-white shadow-[0_12px_24px_rgba(0,0,0,0.14)]";
 const buttonSmallClass =
-  "inline-flex items-center gap-2 rounded-full bg-black px-4 py-2 text-sm font-semibold !text-white [color:#ffffff] shadow-[0_12px_24px_rgba(0,0,0,0.14)]";
+  "picqtures-black-button inline-flex items-center gap-2 rounded-full bg-black px-4 py-2 text-sm font-semibold text-white shadow-[0_12px_24px_rgba(0,0,0,0.14)]";
 const buttonPillClass =
-  "inline-flex items-center gap-2 rounded-full bg-black px-5 py-3 text-sm font-semibold !text-white [color:#ffffff] shadow-[0_12px_24px_rgba(0,0,0,0.12)]";
+  "picqtures-black-button inline-flex items-center gap-2 rounded-full bg-black px-5 py-3 text-sm font-semibold text-white shadow-[0_12px_24px_rgba(0,0,0,0.12)]";
 const navLinks = [
   { label: "Marketing", href: "#marketing" },
   { label: "Sites web", href: "#sites" },

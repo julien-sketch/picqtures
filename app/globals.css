@@ -46,6 +46,26 @@ a {
   text-decoration: none;
 }
 
+.picqtures-black-button,
+.picqtures-black-button * {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+.picqtures-black-button svg {
+  stroke: #ffffff !important;
+}
+
+.home-black-button,
+.home-black-button * {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+.home-black-button svg {
+  stroke: #ffffff !important;
+}
+
 ::selection {
   background: rgba(242, 181, 107, 0.4);
   color: #2d2218;
