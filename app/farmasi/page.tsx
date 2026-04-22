@@ -24,7 +24,7 @@ const farmasiItalic = Noto_Sans({
 export const metadata: Metadata = {
   title: "Farmasi | Nutrition des dirigeants",
   description:
-    "Une landing page Farmasi claire et editoriale autour de la nutrition, de la performance et de la routine des dirigeants.",
+    "Une landing page Farmasi claire et éditoriale autour de la nutrition, de la performance et de la routine des dirigeants.",
 };
 
 const FARMASI_BOUTIQUE_URL = "https://www.fr.farmasi.com/marionjulien";
@@ -35,9 +35,10 @@ const ALOE_GLOW_URL =
 const CONTACT_EMAIL =
   "mailto:julien@picqtures.fr?subject=Farmasi%20Performance";
 const INSTAGRAM_URL = "https://instagram.com/julien_veyrc";
+const CONTACT_WHATSAPP = "https://wa.me/qr/RQP2JB4ULQNUM1";
 
 const navLinks = [
-  { label: "Glycemie", href: "#glycemie" },
+  { label: "Glycémie", href: "#glycemie" },
   { label: "NutriShake", href: "#nutrishake" },
   { label: "Aloe Glow", href: "#aloe-glow" },
   { label: "Routine", href: "#routine" },
@@ -46,29 +47,29 @@ const navLinks = [
 const heroStats = [
   {
     value: "-20%",
-    label: "de productivite lie a une mauvaise nutrition",
+    label: "de productivité liée à une mauvaise nutrition",
   },
   {
     value: "1/3",
     label:
-      "des erreurs de jugement complexes sont liees a une hypoglycemie reactionnelle",
+      "des erreurs de jugement complexes sont liées à une hypoglycémie réactionnelle",
   },
   {
     value: "x2",
     label:
-      "de risque de prendre des decisions financieres risquées après une nuit de 4h",
+      "de risque de prendre des décisions financières risquées après une nuit de 4 h",
   },
   { value: "3 min", label: "suffisent pour mieux se nourrir" },
 ];
 
 const marqueeItems = [
-  "Energie mentale",
-  "Clarte cognitive",
-  "Recuperation",
+  "Énergie mentale",
+  "Clarté cognitive",
+  "Récupération",
   "Gain de temps",
   "Performance durable",
-  "Focus et decision",
-  "Sommeil reparateur",
+  "Focus et décision",
+  "Sommeil réparateur",
   "Force et endurance",
 ];
 
@@ -76,64 +77,64 @@ const problems = [
   {
     title: "Tu n'as pas le temps de manger correctement",
     text:
-      "Sandwich avale en cinq minutes, repas saute, fast-food entre deux calls. Le cout reel arrive plus tard : coup de barre, irritabilite et decisions moins nettes.",
+      "Sandwich avalé en cinq minutes, repas sauté, fast-food entre deux calls. Le coût réel arrive plus tard : coup de barre, irritabilité et décisions moins nettes.",
     icon: "01",
   },
   {
-    title: "Ta glycemie sabote tes meilleures heures",
+    title: "Ta glycémie sabote tes meilleures heures",
     text:
-      "Cafe, sucre rapide, crash brutal ensuite. C'est souvent exactement au moment ou tu devrais etre le plus clair pour arbitrer, negocier ou prioriser.",
+      "Café, sucre rapide, crash brutal ensuite. C'est souvent exactement au moment où tu devrais être le plus clair pour arbitrer, négocier ou prioriser.",
     icon: "02",
   },
   {
     title: "Tu ne nourris pas assez ton cerveau",
     text:
-      "Sans proteines, omega-3 et micronutriments utiles, la concentration chute, la memoire devient plus floue et la fatigue mentale monte plus vite.",
+      "Sans protéines, oméga-3 et micronutriments utiles, la concentration chute, la mémoire devient plus floue et la fatigue mentale monte plus vite.",
     icon: "03",
   },
 ];
 
 const glycemieFacts = [
-  "Un pic glycemique declenche une forte reponse insulinique, puis un crash environ 90 minutes plus tard.",
-  "Pendant ce creux, le cortex prefrontal fonctionne moins bien : les decisions deviennent plus impulsives et moins rationnelles.",
-  "Le vrai levier n'est pas de sauter un repas, mais d'apporter les bons nutriments au bon moment, meme dans une journee chargee.",
+  "Un pic glycémique déclenche une forte réponse insulinique, puis un crash environ 90 minutes plus tard.",
+  "Pendant ce creux, le cortex préfrontal fonctionne moins bien : les décisions deviennent plus impulsives et moins rationnelles.",
+  "Le vrai levier n'est pas de sauter un repas, mais d'apporter les bons nutriments au bon moment, même dans une journée chargée.",
 ];
 
 const nutrishakeBenefits = [
-  "Glycemie plus stable grace a un profil nutritionnel plus regulier.",
-  "25 g de proteines pour soutenir neurotransmetteurs, motivation et clarte mentale.",
-  "Vitamines et mineraux utiles pour encaisser le stress de journees denses.",
-  "Pret en trois minutes au bureau, en voiture ou entre deux rendez-vous.",
-  "Format simple a deployer dans une vraie routine de dirigeant.",
+  "Glycémie plus stable grâce à un profil nutritionnel plus régulier.",
+  "25 g de protéines pour soutenir les neurotransmetteurs, la motivation et la clarté mentale.",
+  "Vitamines et minéraux utiles pour encaisser le stress de journées denses.",
+  "Prêt en trois minutes au bureau, en voiture ou entre deux rendez-vous.",
+  "Format simple à déployer dans une vraie routine de dirigeant.",
 ];
 
 const aloeGlowBenefits = [
-  "Format liquide simple a integrer dans une routine quotidienne.",
-  "Produit ideal pour parler bien-etre interieur sans compliquer le message.",
+  "Format liquide simple à intégrer dans une routine quotidienne.",
+  "Produit idéal pour parler de bien-être intérieur sans compliquer le message.",
   "Permet de travailler l'angle digestion, confort et routine durable.",
-  "Ajoute une dimension glow et image a ton univers Farmasi.",
-  "Facile a recommander a des profils qui veulent commencer simplement.",
-  "Complement logique a une routine plus globale avec nutrition et soins.",
+  "Ajoute une dimension glow et image à ton univers Farmasi.",
+  "Facile à recommander à des profils qui veulent commencer simplement.",
+  "Complément logique à une routine plus globale avec nutrition et soins.",
 ];
 
 const aloeGlowHighlights = [
   {
     title: "Digestion",
     text:
-      "Aloe Glow permet de parler confort digestif et bien-etre interieur, avec un discours plus accessible qu'un supplement trop technique.",
+      "Aloe Glow permet de parler de confort digestif et de bien-être intérieur, avec un discours plus accessible qu'un complément trop technique.",
   },
   {
     title: "Routine simple",
     text:
-      "Le format est facile a prendre au quotidien. C'est ideal pour une clientele qui veut du concret et du simple.",
+      "Le format est facile à prendre au quotidien. C'est idéal pour une clientèle qui veut du concret et du simple.",
   },
   {
     title: "Glow",
     text:
-      "Le positionnement est interessant parce qu'il relie bien-etre interieur, peau, image et energie plus propre.",
+      "Le positionnement est intéressant parce qu'il relie bien-être intérieur, peau, image et énergie plus propre.",
   },
   {
-    title: "Porte d'entree",
+    title: "Porte d'entrée",
     text:
       "C'est un bon produit phare pour des personnes qui ne veulent pas commencer par quelque chose de trop sport ou trop nutritionnel.",
   },
@@ -142,19 +143,19 @@ const aloeGlowHighlights = [
 const proteinMetrics = [
   {
     value: "1,6 g",
-    label: "par kilo de poids corporel pour un adulte actif et stresse",
+    label: "par kilo de poids corporel pour un adulte actif et stressé",
   },
   {
     value: "80%",
-    label: "des dirigeants seraient en sous-apport proteique chronique",
+    label: "des dirigeants seraient en sous-apport protéique chronique",
   },
   {
     value: "30 min",
-    label: "apres le reveil pour un apport matinal strategique",
+    label: "après le réveil pour un apport matinal stratégique",
   },
   {
     value: "+23%",
-    label: "de satiete en plus versus un petit-dejeuner sucre",
+    label: "de satiété en plus versus un petit-déjeuner sucré",
   },
 ];
 
@@ -162,44 +163,44 @@ const timeline = [
   {
     time: "7h30",
     status: "bad",
-    title: "Sans : cafe et viennoiserie",
+    title: "Sans : café et viennoiserie",
     text:
-      "Pic glycemique rapide, energie courte, anxiete de fond et premiere baisse nette avant midi.",
+      "Pic glycémique rapide, énergie courte, anxiété de fond et première baisse nette avant midi.",
   },
   {
     time: "7h30",
     status: "good",
     title: "Avec : NutriShake",
     text:
-      "Proteines, glucides plus reguliers, micronutriments et energie plus lineaire pour les premieres heures cle.",
+      "Protéines, glucides plus réguliers, micronutriments et énergie plus linéaire pour les premières heures clés.",
   },
   {
     time: "11h00",
     status: "bad",
-    title: "Sans : fringale et irritabilite",
+    title: "Sans : fringale et irritabilité",
     text:
-      "Crash glycemique, tentation du sucre et baisse de clarte au moment ou il faudrait rester precis.",
+      "Crash glycémique, tentation du sucre et baisse de clarté au moment où il faudrait rester précis.",
   },
   {
     time: "11h00",
     status: "good",
     title: "Avec : pleine puissance cognitive",
     text:
-      "Concentration plus stable, meilleures decisions et moins de dispersion mentale.",
+      "Concentration plus stable, meilleures décisions et moins de dispersion mentale.",
   },
   {
     time: "14h00",
     status: "bad",
     title: "Sans : le coup de barre classique",
     text:
-      "Somnolence apres un dejeuner pris a la va-vite, energie subie au lieu d'une apres-midi menee.",
+      "Somnolence après un déjeuner pris à la va-vite, énergie subie au lieu d'une après-midi menée.",
   },
   {
     time: "14h00",
     status: "good",
-    title: "Avec : deuxieme plage de performance",
+    title: "Avec : deuxième plage de performance",
     text:
-      "Une energie plus continue qui te permet de rester present, clair et efficace jusqu'au soir.",
+      "Une énergie plus continue qui te permet de rester présent, clair et efficace jusqu'au soir.",
   },
 ];
 
@@ -209,26 +210,26 @@ const omegaCards = [
     subtitle: "EPA + DHA · cerveau · anti-inflammatoire",
     icon: "O3",
     effects: [
-      { label: "Fluidite neuronale", value: 92 },
+      { label: "Fluidité neuronale", value: 92 },
       { label: "Inflammation chronique", value: 85 },
       { label: "Sommeil profond", value: 78 },
-      { label: "Regulation de l'humeur", value: 80 },
+      { label: "Régulation de l'humeur", value: 80 },
     ],
     text:
-      "Stress, manque de sommeil et alimentation repetitive entretiennent un terrain inflammatoire qui use la clarte mentale. Les omega-3 sont une base solide.",
+      "Stress, manque de sommeil et alimentation répétitive entretiennent un terrain inflammatoire qui use la clarté mentale. Les oméga-3 sont une base solide.",
   },
   {
-    title: "Vitamines et mineraux",
-    subtitle: "B6 · B12 · D3 · magnesium · zinc",
+    title: "Vitamines et minéraux",
+    subtitle: "B6 · B12 · D3 · magnésium · zinc",
     icon: "VM",
     effects: [
-      { label: "Energie cellulaire", value: 88 },
-      { label: "Immunite et stress", value: 82 },
+      { label: "Énergie cellulaire", value: 88 },
+      { label: "Immunité et stress", value: 82 },
       { label: "Neurotransmetteurs", value: 90 },
-      { label: "Recuperation nerveuse", value: 75 },
+      { label: "Récupération nerveuse", value: 75 },
     ],
     text:
-      "Le magnesium, les vitamines du groupe B et certains mineraux jouent un role direct dans l'energie, la recuperation et la resilience nerveuse.",
+      "Le magnésium, les vitamines du groupe B et certains minéraux jouent un rôle direct dans l'énergie, la récupération et la résilience nerveuse.",
   },
 ];
 
@@ -236,21 +237,21 @@ const beautyCards = [
   {
     title: "Soins peau homme et femme",
     text:
-      "Hydratation, eclat, regard plus frais. Une routine rapide pour renvoyer une image plus nette, meme quand les nuits sont courtes.",
+      "Hydratation, éclat, regard plus frais. Une routine rapide pour renvoyer une image plus nette, même quand les nuits sont courtes.",
     image: "/farmasi-skincare.svg",
     url:"https://www.fr.farmasi.com/marionjulien/product-list/soin-visage?cid=5aecb19a-63d3-eb11-a315-005056010963",
   },
   {
     title: "Routine express cinq minutes",
     text:
-      "Nettoyant, serum, creme et protection. Une pile simple a tenir sans complexite ni dispersion.",
+      "Nettoyant, sérum, crème et protection. Une pile simple à tenir sans complexité ni dispersion.",
     image: "/farmasi-skincare2.svg",
     url:"https://www.fr.farmasi.com/marionjulien/product-list/soin-visage?cid=5aecb19a-63d3-eb11-a315-005056010963",
   },
   {
     title: "Parfums premium",
     text:
-      "Une signature olfactive propre, sobre et memorisable. L'image passe aussi par les details.",
+      "Une signature olfactive propre, sobre et mémorisable. L'image passe aussi par les détails.",
     image: "/farmasi-perfume.svg",
     url: "https://www.fr.farmasi.com/marionjulien/product-list/parfums?cid=e0255bb2-d060-ed11-83af-000d3a71539d",
   },
@@ -258,18 +259,18 @@ const beautyCards = [
 
 const packs = [
   {
-    title: "Pack Starter Clarte",
+    title: "Pack Starter Clarté",
     description:
-      "NutriShake + shaker. Le point d'entree le plus simple pour remettre une vraie structure dans les repas pris a la va-vite.",
-    includes: "NutriShake, shaker, routine de demarrage",
+      "NutriShake + shaker. Le point d'entrée le plus simple pour remettre une vraie structure dans les repas pris à la va-vite.",
+    includes: "NutriShake, shaker, routine de démarrage",
     image: "/farmasi-nutrishake.svg",
-    accent: "Demarrer simplement",
+    accent: "Démarrer simplement",
     url: "https://www.fr.farmasi.com/marionjulien/WishListSharedDetail/?wishListId=92e1103a-fbc1-4826-a71e-dda25987c0f5&c=1234",
   },
   {
     title: "Pack Performance Dirigeant",
     description:
-      "NutriShake + Aloe Glow. Un pack coherent pour soutenir structure, regularite et mieux-etre global.",
+      "NutriShake + Aloe Glow. Un pack cohérent pour soutenir structure, régularité et mieux-être global.",
     includes: "NutriShake, Aloe Glow, routine simple",
     image: "/farmasi-pack-performance.svg",
     accent: "Le plus complet",
@@ -278,7 +279,7 @@ const packs = [
   {
     title: "Pack Fondations Quotidiennes",
     description:
-      "Omega-3 + multivitamines pour renforcer le socle : systeme nerveux, recuperation et regularite sur la duree.",
+      "Omega-3 + multivitamines pour renforcer le socle : système nerveux, récupération et régularité sur la durée.",
     includes: "Omega-3, multivitamines, routine du matin",
     image: "/farmasi-omega-vit.svg",
     accent: "Socle quotidien",
@@ -288,26 +289,26 @@ const packs = [
 
 const dailyProducts = [
   {
-    title: "Cafe Farmasi",
+    title: "Café Farmasi",
     image: "/farmasi-coffee.svg",
     url: "https://www.fr.farmasi.com/marionjulien/product-detail/nutriplus-cafe-instantane-soluble-melange-de-chicoree?pid=9000850",
     text:
-      "Une option pratique pour installer un rituel du matin plus cadre. L'idee ici est moins le cafe pris dans l'urgence, et plus une routine plus stable et plus intentionnelle.",
+      "Une option pratique pour installer un rituel du matin plus cadré. L'idée ici est moins le café pris dans l'urgence, et plus une routine plus stable et plus intentionnelle.",
     benefits: [
-      "rituel simple a integrer le matin",
-      "pratique au bureau ou en deplacement",
-      "s'insere facilement dans une routine performance",
+      "rituel simple à intégrer le matin",
+      "pratique au bureau ou en déplacement",
+      "s'insère facilement dans une routine performance",
     ],
   },
   {
-    title: "The Farmasi",
+    title: "Thé Farmasi",
     image: "/farmasi-the.svg",
     url: "https://www.fr.farmasi.com/marionjulien/product-detail/nutriplus-serenity-the-noir?pid=1000809",
     text:
-      "Un format leger pour une pause plus propre dans la journee. Chaud ou froid selon les references, il aide a structurer un moment de respiration sans complexite.",
+      "Un format léger pour une pause plus propre dans la journée. Chaud ou froid selon les références, il aide à structurer un moment de respiration sans complexité.",
     benefits: [
       "pause plus douce entre deux temps forts",
-      "format facile a preparer",
+      "format facile à préparer",
       "rituel simple pour ralentir sans perdre le fil",
     ],
   },
@@ -316,22 +317,22 @@ const dailyProducts = [
     image: "/farmasi-aloeglow.svg",
     url: "https://www.fr.farmasi.com/marionjulien/product-detail/aloe-glow-mango?pid=1002123",
     text:
-      "AloeGlow s'inscrit dans une logique de digestion, d'hydratation quotidienne et de vitalite. C'est le type de produit qu'on ajoute pour soutenir le terrain plutot que pour chercher un effet spectaculaire.",
+      "AloeGlow s'inscrit dans une logique de digestion, d'hydratation quotidienne et de vitalité. C'est le type de produit qu'on ajoute pour soutenir le terrain plutôt que pour chercher un effet spectaculaire.",
     benefits: [
       "soutien du confort digestif au quotidien",
-      "routine bien-etre et eclat plus coherente",
-      "facile a integrer dans une hygiene de vie simple",
+      "routine bien-être et éclat plus cohérente",
+      "facile à intégrer dans une hygiène de vie simple",
     ],
   },
   {
-    title: "Pastilles de rehydratation",
+    title: "Pastilles de réhydratation",
     image: "/farmasi-hydration.svg",
     url: "https://www.fr.farmasi.com/marionjulien/product-detail/electrolyte?pid=1002298",
     text:
-      "Tres utiles dans les journees denses, les deplacements, les periodes de chaleur ou apres le sport. Elles aident a remettre l'hydratation au centre quand on oublie facilement de boire correctement.",
+      "Très utiles dans les journées denses, les déplacements, les périodes de chaleur ou après le sport. Elles aident à remettre l'hydratation au centre quand on oublie facilement de boire correctement.",
     benefits: [
-      "soutien de l'hydratation et de l'equilibre electrolytique",
-      "pratique en voyage, au bureau ou apres l'effort",
+      "soutien de l'hydratation et de l'équilibre électrolytique",
+      "pratique en voyage, au bureau ou après l'effort",
       "solution simple quand l'eau seule ne suffit plus",
     ],
   },
@@ -340,45 +341,45 @@ const dailyProducts = [
 const routineBlocks = [
   {
     time: "6h30",
-    title: "Reveil - hydratation et vitamines",
+    title: "Réveil - hydratation et vitamines",
     text:
-      "Grand verre d'eau, omega-3 et multivitamines. Tu poses les bases du systeme nerveux des les premieres minutes.",
+      "Grand verre d'eau, oméga-3 et multivitamines. Tu poses les bases du système nerveux dès les premières minutes.",
     tag: "Omega-3 + multivitamines",
   },
   {
     time: "7h00",
     title: "Soins matinaux - cinq minutes",
     text:
-      "Nettoyant, serum, creme. Une routine rapide pour sortir frais, net et presentable sans perdre du temps.",
+      "Nettoyant, sérum, crème. Une routine rapide pour sortir frais, net et présentable sans perdre du temps.",
     tag: "Routine soins Farmasi",
   },
   {
     time: "7h30",
-    title: "Petit-dejeuner - NutriShake",
+    title: "Petit-déjeuner - NutriShake",
     text:
-      "Une base simple pour stabiliser l'energie, nourrir le cerveau et lancer la matinee avec plus de clarte.",
+      "Une base simple pour stabiliser l'énergie, nourrir le cerveau et lancer la matinée avec plus de clarté.",
     tag: "NutriShake",
   },
   {
     time: "12h30",
-    title: "Dejeuner equilibre ou NutriShake #2",
+    title: "Déjeuner équilibré ou NutriShake #2",
     text:
-      "Quand la journee explose, une solution simple et reguliere reste meilleure qu'un dejeuner improvise et trop lourd.",
+      "Quand la journée explose, une solution simple et régulière reste meilleure qu'un déjeuner improvisé et trop lourd.",
     tag: "NutriShake optionnel",
   },
   {
     time: "16h00",
     title: "Aloe Glow dans une routine simple",
     text:
-      "Un moment bien-etre facile a integrer pour soutenir regularite, confort et sensation de routine plus propre.",
+      "Un moment bien-être facile à intégrer pour soutenir régularité, confort et sensation de routine plus propre.",
     tag: "Aloe Glow",
   },
   {
     time: "21h00",
-    title: "Routine soir et recuperation",
+    title: "Routine soir et récupération",
     text:
-      "Soins du soir, recuperation nerveuse, magnesium si necessaire. Tu prepares le lendemain pendant que le corps se regenere.",
-    tag: "Routine nuit + magnesium",
+      "Soins du soir, récupération nerveuse, magnésium si nécessaire. Tu prépares le lendemain pendant que le corps se régénère.",
+    tag: "Routine nuit + magnésium",
   },
 ];
 
@@ -388,7 +389,7 @@ const testimonials = [
     author: "Thomas M.",
     role: "CEO · Lyon",
     quote:
-      "Le NutriShake m'a surtout aide a supprimer le coup de barre de l'apres-midi. Ensuite j'ai ajoute une routine plus propre et mes fins de journee sont plus stables.",
+      "Le NutriShake m'a surtout aidé à supprimer le coup de barre de l'après-midi. Ensuite, j'ai ajouté une routine plus propre et mes fins de journée sont plus stables.",
     color: "#d2b17a",
   },
   {
@@ -396,7 +397,7 @@ const testimonials = [
     author: "Sophie R.",
     role: "Directrice commerciale",
     quote:
-      "Le protocole est simple, concret et tenable. J'ai moins de cafe-sucre, plus d'energie stable et une meilleure image de moi au quotidien.",
+      "Le protocole est simple, concret et tenable. J'ai moins de café-sucre, plus d'énergie stable et une meilleure image de moi au quotidien.",
     color: "#8eb39b",
   },
   {
@@ -404,7 +405,7 @@ const testimonials = [
     author: "Karim A.",
     role: "Fondateur startup",
     quote:
-      "Aloe Glow m'a plu parce que c'est facile a prendre. J'aime les produits simples que je peux garder dans une vraie routine.",
+      "Aloe Glow m'a plu parce que c'est facile à prendre. J'aime les produits simples que je peux garder dans une vraie routine.",
     color: "#94aec4",
   },
   {
@@ -412,15 +413,15 @@ const testimonials = [
     author: "Laura D.",
     role: "Avocate d'affaires",
     quote:
-      "Je ne voulais pas un programme complexe. Le pack omega-3 et multivitamines m'a surtout aidee a rester plus stable sur des semaines tres denses.",
+      "Je ne voulais pas un programme complexe. Le pack oméga-3 et multivitamines m'a surtout aidée à rester plus stable sur des semaines très denses.",
     color: "#d79b78",
   },
   {
     initials: "NB",
     author: "Nicolas B.",
-    role: "Consultant independant",
+    role: "Consultant indépendant",
     quote:
-      "En deplacement, je n'ai plus besoin d'improviser. J'ai mes produits, mon rythme et beaucoup moins de fatigue en fin de journee.",
+      "En déplacement, je n'ai plus besoin d'improviser. J'ai mes produits, mon rythme et beaucoup moins de fatigue en fin de journée.",
     color: "#7ea6c2",
   },
   {
@@ -428,7 +429,7 @@ const testimonials = [
     author: "Claire M.",
     role: "Fondatrice e-commerce",
     quote:
-      "J'ai commence pour la nutrition et j'ai garde la routine soin aussi. Le tout est simple, propre et facile a tenir dans la vraie vie.",
+      "J'ai commencé pour la nutrition et j'ai gardé la routine soin aussi. Le tout est simple, propre et facile à tenir dans la vraie vie.",
     color: "#c892ad",
   },
   {
@@ -442,10 +443,10 @@ const testimonials = [
 ];
 
 const guarantees = [
-  "Conseil personnalise gratuit",
+  "Conseil personnalisé gratuit",
   "Livraison France et Belgique",
-  "Produits certifies et testes",
-  "Reponse rapide par message",
+  "Produits certifiés et testés",
+  "Réponse rapide par message",
   "Sans engagement",
 ];
 
@@ -525,7 +526,7 @@ function ProductCta({
             <ArrowIcon />
           </a>
           <a
-            href={CONTACT_EMAIL}
+            href={CONTACT_WHATSAPP}
             className="text-sm font-medium text-[#9e7a45] transition hover:text-[#7f5f35]"
           >
             Demander un conseil
@@ -573,7 +574,7 @@ export default function FarmasiPage() {
             rel="noreferrer"
             className="cta-dark inline-flex items-center gap-2 rounded-full bg-[#1f1a16] px-4 py-2 text-sm font-semibold text-white transition hover:-translate-y-0.5 hover:bg-[#c8a96e] hover:text-[#1f1a16]"
           >
-            Acceder a la boutique
+            Accéder à la boutique
             <ArrowIcon />
           </a>
         </div>
@@ -607,9 +608,9 @@ export default function FarmasiPage() {
           </h1>
 
           <p className="mt-6 max-w-2xl text-base leading-8 text-white/88 sm:text-lg">
-            Les dirigeants qui reussissent ne laissent pas leur nutrition au hasard.
+            Les dirigeants qui réussissent ne laissent pas leur nutrition au hasard.
             Cette page pose une logique simple : mieux nourrir la machine humaine pour
-            garder plus de clarte, d'energie et de constance dans les journees chargees.
+            garder plus de clarté, d'énergie et de constance dans les journées chargées.
           </p>
 
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
@@ -663,16 +664,16 @@ export default function FarmasiPage() {
       <section className="px-4 py-20 sm:px-6 lg:px-8">
         <div className="mx-auto w-full max-w-6xl">
           <div className="max-w-3xl">
-            <SectionEyebrow>Le vrai probleme</SectionEyebrow>
+            <SectionEyebrow>Le vrai problème</SectionEyebrow>
             <div className="mt-8 rounded-[1.6rem] border-l-4 border-[#c8a96e] bg-white px-6 py-6 shadow-[0_18px_40px_rgba(93,70,44,0.05)] sm:px-8">
               <p className="text-2xl leading-snug text-[#2a231e] [font-family:var(--font-farmasi-serif)] italic sm:text-4xl">
-                "Je mange n'importe quoi entre deux reunions. Le soir je suis a plat."
+                "Je mange n'importe quoi entre deux réunions. Le soir je suis à plat."
               </p>
               <p className="mt-5 max-w-2xl text-sm leading-7 text-[#70655a] sm:text-base">
                 Ce constat revient souvent. Et pourtant, c'est ton corps qui porte
-                tes decisions, ton attention et ton energie. Une machine mal
-                alimentee n'est pas seulement fatiguee : elle est moins lucide,
-                moins stable et moins fiable dans la duree.
+                tes décisions, ton attention et ton énergie. Une machine mal
+                alimentée n'est pas seulement fatiguée : elle est moins lucide,
+                moins stable et moins fiable dans la durée.
               </p>
             </div>
           </div>
@@ -684,7 +685,7 @@ export default function FarmasiPage() {
                 className="rounded-[1.5rem] border border-[#eadcc8] bg-white p-6 shadow-[0_16px_35px_rgba(93,70,44,0.05)] transition hover:-translate-y-1 hover:shadow-[0_22px_42px_rgba(93,70,44,0.08)]"
               >
                 <span className="inline-flex rounded-full bg-[#fbefe1] px-3 py-1 text-[0.68rem] font-bold uppercase tracking-[0.16em] text-[#b86558]">
-                  Probleme {item.icon}
+                  Problème {item.icon}
                 </span>
                 <h3 className="mt-5 text-2xl leading-tight tracking-[-0.03em] text-[#1f1a16] [font-family:var(--font-farmasi-display)]">
                   {item.title}
@@ -702,7 +703,7 @@ export default function FarmasiPage() {
         <div className="mx-auto grid w-full max-w-6xl gap-10 lg:grid-cols-[1.02fr_minmax(0,0.98fr)] lg:items-center">
           <div className="rounded-[1.8rem] border border-[#eadcc8] bg-[#fffdfa] p-6 shadow-[0_18px_40px_rgba(93,70,44,0.05)] sm:p-8">
             <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#8a7f73] [font-family:var(--font-farmasi-display)]">
-              Glycemie sur une journee
+              Glycémie sur une journée
             </p>
             <div className="mt-6 rounded-[1.4rem] bg-[#f7f1e7] p-4">
               <div className="relative h-44 overflow-hidden rounded-[1rem] bg-white">
@@ -736,21 +737,21 @@ export default function FarmasiPage() {
                 </div>
                 <div className="inline-flex items-center gap-2">
                   <span className="h-2.5 w-2.5 rounded-full bg-[#4d8769]" />
-                  Nutrition optimisee
+                  Nutrition optimisée
                 </div>
               </div>
             </div>
           </div>
 
           <div>
-            <SectionEyebrow>Comprendre la glycemie</SectionEyebrow>
+            <SectionEyebrow>Comprendre la glycémie</SectionEyebrow>
             <h2 className="mt-5 text-4xl leading-[0.95] tracking-[-0.05em] text-[#1f1a16] [font-family:var(--font-farmasi-display)] sm:text-5xl">
               Ton cerveau vit
               <br />
               au rythme de
               <br />
               <span className="text-[#c8a96e] [font-family:var(--font-farmasi-serif)] italic">
-                ta glycemie
+                ta glycémie
               </span>
             </h2>
 
@@ -770,7 +771,7 @@ export default function FarmasiPage() {
                 -40%
               </span>
               <span className="text-sm leading-6 text-[#5f5449]">
-                de capacite de concentration pendant un crash glycemique
+                de capacité de concentration pendant un crash glycémique
               </span>
             </div>
           </div>
@@ -790,9 +791,9 @@ export default function FarmasiPage() {
               </span>
             </h2>
             <p className="mt-5 max-w-2xl text-base leading-8 text-[#70655a]">
-              Si tu n'as pas le temps de dejeuner correctement, il te faut une
-              option simple, reproductible et suffisamment complete pour eviter de
-              payer la note plus tard dans la journee.
+              Si tu n'as pas le temps de déjeuner correctement, il te faut une
+              option simple, reproductible et suffisamment complète pour éviter de
+              payer la note plus tard dans la journée.
             </p>
           </div>
 
@@ -823,7 +824,7 @@ export default function FarmasiPage() {
 
               <div className="mt-6 grid grid-cols-3 gap-px overflow-hidden rounded-2xl bg-[#eadcc8]">
                 {[
-                  ["25g", "Proteines"],
+                  ["25g", "Protéines"],
                   ["6g", "Sucres"],
                   ["380", "Kcal"],
                 ].map(([value, label]) => (
@@ -839,19 +840,19 @@ export default function FarmasiPage() {
               </div>
 
               <p className="mt-4 text-xs text-[#8a7f73]">
-                Visuel produit integre pour rendre l'offre plus parlante des le
-                premier ecran.
+                Visuel produit intégré pour rendre l'offre plus parlante dès le
+                premier écran.
               </p>
             </div>
 
             <div>
               <h3 className="text-3xl leading-tight tracking-[-0.03em] text-[#1f1a16] [font-family:var(--font-farmasi-display)]">
-                Pourquoi un protocole repas rapide change vraiment la journee
+                Pourquoi un protocole repas rapide change vraiment la journée
               </h3>
               <p className="mt-4 text-base leading-8 text-[#70655a]">
-                Sauter le dejeuner ne prouve rien. Dans beaucoup de cas, c'est meme
-                une erreur metabolique qui detruit les heures utiles de fin de
-                matinee et d'apres-midi.
+                Sauter le déjeuner ne prouve rien. Dans beaucoup de cas, c'est même
+                une erreur métabolique qui détruit les heures utiles de fin de
+                matinée et d'après-midi.
               </p>
 
               <div className="mt-8 space-y-3">
@@ -872,7 +873,7 @@ export default function FarmasiPage() {
                 <ProductCta
                   tag="Solution #1 pour dirigeants"
                   title="NutriShake Farmasi"
-                  text="Repas complet, plus simple a deployer au quotidien, pense pour eviter les crashes et gagner un vrai temps mental."
+                  text="Repas complet, plus simple à déployer au quotidien, pensé pour éviter les crashes et gagner un vrai temps mental."
                   image="/farmasi-nutrishake.svg"
                   productUrl="https://www.fr.farmasi.com/marionjulien/product-list/search/nutrishake"
                 />
@@ -889,24 +890,24 @@ export default function FarmasiPage() {
             <h2 className="mt-5 text-4xl leading-[0.96] tracking-[-0.05em] text-[#1f1a16] [font-family:var(--font-farmasi-display)] sm:text-5xl">
               Aloe Glow :
               <br />
-              le produit bien-etre
+              le produit bien-être
               <br />
               <span className="text-[#c8a96e] [font-family:var(--font-farmasi-serif)] italic">
                 signature
               </span>
             </h2>
             <p className="mt-5 max-w-2xl text-base leading-8 text-[#70655a]">
-              Si tu veux mettre en avant un produit phare Farmasi different du
+              Si tu veux mettre en avant un produit phare Farmasi différent du
               NutriShake, Aloe Glow a une vraie place. Il permet de parler
-              digestion, routine quotidienne, bien-etre interieur et image plus
-              fraiche, sans brouiller ton message nutrition.
+              digestion, routine quotidienne, bien-être intérieur et image plus
+              fraîche, sans brouiller ton message nutrition.
             </p>
           </div>
 
           <div className="mt-12 grid gap-6 lg:grid-cols-[1.02fr_minmax(0,0.98fr)] lg:items-start">
             <div className="rounded-[1.7rem] border border-[#eadcc8] bg-[#fffdfa] p-6 shadow-[0_18px_40px_rgba(93,70,44,0.05)]">
               <p className="text-xs font-bold uppercase tracking-[0.16em] text-[#8a7f73] [font-family:var(--font-farmasi-display)]">
-                Pourquoi Aloe Glow est interessant
+                Pourquoi Aloe Glow est intéressant
               </p>
 
               <div className="mt-6 space-y-3">
@@ -954,7 +955,7 @@ export default function FarmasiPage() {
                 <ProductCta
                   tag="Digestion · glow · routine quotidienne"
                   title="Aloe Glow Mangue Farmasi"
-                  text="Un produit simple a integrer dans une routine quotidienne pour parler bien-etre interieur, digestion et image plus fraiche."
+                  text="Un produit simple à intégrer dans une routine quotidienne pour parler bien-être intérieur, digestion et image plus fraîche."
                   image="/farmasi-aloeglow.svg"
                   productUrl={ALOE_GLOW_URL}
                 />
@@ -969,18 +970,18 @@ export default function FarmasiPage() {
           <div className="max-w-3xl">
             <SectionEyebrow>La solution #3</SectionEyebrow>
             <h2 className="mt-5 text-4xl leading-[0.96] tracking-[-0.05em] text-[#1f1a16] [font-family:var(--font-farmasi-display)] sm:text-5xl">
-              Les proteines :
+              Les protéines :
               <br />
               <span className="text-[#c8a96e] [font-family:var(--font-farmasi-serif)] italic">
                 carburant
               </span>
               <br />
-              de tes decisions
+              de tes décisions
             </h2>
             <p className="mt-5 max-w-2xl text-base leading-8 text-[#70655a]">
-              Motivation, attention, clarte : une partie importante de ta chimie
-              mentale se construit a partir d'acides amines. Une routine trop
-              pauvre en proteines finit par se payer.
+              Motivation, attention, clarté : une partie importante de ta chimie
+              mentale se construit à partir d'acides aminés. Une routine trop
+              pauvre en protéines finit par se payer.
             </p>
           </div>
 
@@ -1002,7 +1003,7 @@ export default function FarmasiPage() {
 
           <div className="mt-14 rounded-[1.8rem] border border-[#eadcc8] bg-white p-6 shadow-[0_18px_40px_rgba(93,70,44,0.05)] sm:p-8">
             <h3 className="text-2xl tracking-[-0.03em] text-[#1f1a16] [font-family:var(--font-farmasi-display)]">
-              Ta journee type sans proteines vs avec proteines
+              Ta journée type sans protéines vs avec protéines
             </h3>
 
             <div className="mt-8 border-l border-[#e3d4bf] pl-5 sm:pl-7">
@@ -1035,7 +1036,7 @@ export default function FarmasiPage() {
               <ProductCta
                 tag="Proteines · structure · energie"
                 title="Pack Booster Performance"
-                text="Une pile simple pour soutenir l'energie matinale, reduire les crashes et mieux tenir la journee."
+                text="Une pile simple pour soutenir l'énergie matinale, réduire les crashes et mieux tenir la journée."
                 image="/farmasi-pack-performance.svg"
                 productUrl="https://www.fr.farmasi.com/marionjulien/WishListSharedDetail/?wishListId=c876be40-fef9-4587-a016-c3e16047d91e&c=1234"
               />
@@ -1049,15 +1050,15 @@ export default function FarmasiPage() {
           <div className="max-w-3xl">
             <SectionEyebrow>Packs</SectionEyebrow>
             <h2 className="mt-5 text-4xl leading-[0.96] tracking-[-0.05em] text-[#1f1a16] [font-family:var(--font-farmasi-display)] sm:text-5xl">
-              Des packs prets a
+              Des packs prêts à
               <br />
               <span className="text-[#c8a96e] [font-family:var(--font-farmasi-serif)] italic">
-                deployer
+                déployer
               </span>
             </h2>
             <p className="mt-5 max-w-2xl text-base leading-8 text-[#70655a]">
               Si tu veux aller plus vite, ces packs regroupent les combinaisons les
-              plus faciles a mettre en place selon ton besoin du moment.
+              plus faciles à mettre en place selon ton besoin du moment.
             </p>
           </div>
 
@@ -1125,7 +1126,7 @@ export default function FarmasiPage() {
             </h2>
             <p className="mt-5 max-w-2xl text-base leading-8 text-[#70655a]">
               On les remarque moins vite, mais ils forment le socle. Sans
-              fondations metaboliques correctes, le reste tient beaucoup moins bien
+              fondations métaboliques correctes, le reste tient beaucoup moins bien
               dans le temps.
             </p>
           </div>
@@ -1180,7 +1181,7 @@ export default function FarmasiPage() {
             <ProductCta
               tag="Fondations · recuperation · immunite"
               title="Omega-3 + Multivitamines Farmasi"
-              text="Une base quotidienne simple pour soutenir systeme nerveux, energie, humeur et recuperation."
+              text="Une base quotidienne simple pour soutenir système nerveux, énergie, humeur et récupération."
               image="/farmasi-omega-vit.svg"
               productUrl={FARMASI_BOUTIQUE_URL}
             />
@@ -1191,19 +1192,19 @@ export default function FarmasiPage() {
       <section className="px-4 py-20 sm:px-6 lg:px-8">
         <div className="mx-auto w-full max-w-6xl">
           <div className="max-w-3xl">
-            <SectionEyebrow>Produits complementaires</SectionEyebrow>
+            <SectionEyebrow>Produits complémentaires</SectionEyebrow>
             <h2 className="mt-5 text-4xl leading-[0.96] tracking-[-0.05em] text-[#1f1a16] [font-family:var(--font-farmasi-display)] sm:text-5xl">
-              Cafe, the, AloeGlow
+              Café, thé, AloeGlow
               <br />
               et{" "}
               <span className="text-[#c8a96e] [font-family:var(--font-farmasi-serif)] italic">
-                rehydratation
+                réhydratation
               </span>
             </h2>
             <p className="mt-5 max-w-2xl text-base leading-8 text-[#70655a]">
-              Au-dela des gros piliers nutrition, certains produits jouent un role
+              Au-delà des gros piliers nutrition, certains produits jouent un rôle
               plus quotidien : rituels du matin, pause plus propre, hydratation ou
-              soutien du confort digestif et de la regularite.
+              soutien du confort digestif et de la régularité.
             </p>
           </div>
 
@@ -1266,8 +1267,8 @@ export default function FarmasiPage() {
 
           <p className="mt-6 text-sm leading-7 text-[#8a7f73]">
             Ces produits s'inscrivent dans une logique de routine et de confort
-            quotidien. Ils ne remplacent pas une alimentation equilibree ni un
-            avis professionnel si tu as une situation de sante particuliere.
+            quotidien. Ils ne remplacent pas une alimentation équilibrée ni un
+            avis professionnel si tu as une situation de santé particulière.
           </p>
         </div>
       </section>
@@ -1286,7 +1287,7 @@ export default function FarmasiPage() {
             </h2>
             <p className="mt-5 max-w-2xl text-base leading-8 text-[#70655a]">
               Pas besoin d'une routine lourde. Quelques produits bien choisis
-              suffisent a renvoyer une image plus nette, plus fraiche et plus
+              suffisent à renvoyer une image plus nette, plus fraîche et plus
               confiante.
             </p>
           </div>
@@ -1328,7 +1329,7 @@ export default function FarmasiPage() {
                     rel="noreferrer"
                     className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-[#9e7a45] transition hover:text-[#7f5f35]"
                   >
-                    Voir la selection
+                    Voir la sélection
                     <ArrowIcon />
                   </a>
                 </div>
@@ -1350,8 +1351,8 @@ export default function FarmasiPage() {
               </span>
             </h2>
             <p className="mt-5 max-w-2xl text-base leading-8 text-[#70655a]">
-              Tous les produits, au bon moment et dans un ordre simple. L'idee
-              n'est pas d'en faire plus, mais d'executer mieux ce qui compte.
+              Tous les produits, au bon moment et dans un ordre simple. L'idée
+              n'est pas d'en faire plus, mais d'exécuter mieux ce qui compte.
             </p>
           </div>
 
@@ -1385,12 +1386,12 @@ export default function FarmasiPage() {
       <section className="px-4 py-20 sm:px-6 lg:px-8">
         <div className="mx-auto w-full max-w-6xl">
           <div className="max-w-2xl">
-            <SectionEyebrow>Ils ont change leur routine</SectionEyebrow>
+            <SectionEyebrow>Ils ont changé leur routine</SectionEyebrow>
             <h2 className="mt-5 text-4xl leading-[0.96] tracking-[-0.05em] text-[#1f1a16] [font-family:var(--font-farmasi-display)] sm:text-5xl">
               Des dirigeants qui
               <br />
               <span className="text-[#c8a96e] [font-family:var(--font-farmasi-serif)] italic">
-                temoignent
+                témoignent
               </span>
             </h2>
           </div>
@@ -1404,7 +1405,7 @@ export default function FarmasiPage() {
       <section className="relative overflow-hidden bg-[#1f1a16] px-4 py-24 text-center text-white sm:px-6 lg:px-8">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_0%,rgba(200,169,110,0.15),transparent_35%),radial-gradient(circle_at_85%_100%,rgba(77,135,105,0.12),transparent_24%)]" />
         <div className="relative mx-auto w-full max-w-4xl">
-          <SectionEyebrow>Passe a l'action</SectionEyebrow>
+          <SectionEyebrow>Passe à l'action</SectionEyebrow>
           <h2 className="mt-5 text-4xl leading-[0.92] tracking-[-0.05em] text-white [font-family:var(--font-farmasi-display)] sm:text-6xl">
             Ton prochain niveau
             <br />
@@ -1413,9 +1414,9 @@ export default function FarmasiPage() {
             </span>
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-base leading-8 text-white/68">
-            Tu optimises deja strategie, equipes et process. Le moment est venu
-            d'optimiser ce qui tient tout le reste : toi, ton energie et la
-            qualite de tes decisions.
+            Tu optimises déjà stratégie, équipes et process. Le moment est venu
+            d'optimiser ce qui tient tout le reste : toi, ton énergie et la
+            qualité de tes décisions.
           </p>
 
           <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
@@ -1425,7 +1426,7 @@ export default function FarmasiPage() {
               rel="noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-full bg-[#c8a96e] px-6 py-4 text-sm font-semibold text-[#1f1a16] transition hover:-translate-y-0.5 hover:bg-[#e7d3ae]"
             >
-              Acceder a la boutique Farmasi
+              Accéder à la boutique Farmasi
               <ArrowIcon />
             </a>
             <a
@@ -1477,7 +1478,7 @@ export default function FarmasiPage() {
           FAR<span className="text-[#c8a96e]">MASI</span>
         </p>
         <p className="text-sm text-[#7d7268]">
-          Conseils Farmasi autour de la nutrition, de la routine et de l'energie
+          Conseils Farmasi autour de la nutrition, de la routine et de l'énergie
           des dirigeants.
         </p>
       </footer>

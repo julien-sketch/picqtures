@@ -1,0 +1,10 @@
+
+> julien-veyrac-site@0.1.0 dev
+> npm run clean && next dev -p 3001
+
+
+> julien-veyrac-site@0.1.0 clean
+> node scripts/clean-next.mjs
+
+Removed .next
+[?25h
