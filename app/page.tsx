@@ -578,6 +578,8 @@ export default function Home() {
           <SectionHeading
             eyebrow="Temoignages"
             title="Les retours de nos clients."
+            text="Quelques retours concrets de clients qui ont travaillé avec moi."
+
           />
 
           <div className="mt-12">
