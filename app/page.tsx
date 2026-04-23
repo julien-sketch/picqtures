@@ -63,7 +63,7 @@ const services: Service[] = [
     description:
       "Un outil pour mieux suivre les dossiers, rassurer les clients, fluidifier l'avancement et donner une image plus serieuse, plus claire et plus professionnelle.",
     cta: "Voir la solution",
-    href: "https://pro-pulse.picqtures.fr/",
+    href: "https://progressive-pulse.fr/",
     label: "SaaS",
     imageSrc: "/service-progressive-pulse.svg",
     imageAlt: "Illustration de Progressive Pulse",
