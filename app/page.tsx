@@ -510,6 +510,7 @@ export default function Home() {
                 className="h-auto w-full"
               />
             </div>
+            
             <p className="mt-5 text-xs font-bold uppercase tracking-[0.16em] text-[#8a7f73] [font-family:var(--font-farmasi-display)]">
               Pour qui
             </p>
@@ -527,6 +528,92 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <div className="mx-auto grid w-full max-w-6xl gap-6 lg:grid-cols-[20rem_minmax(0,1.08fr)] lg:items-center">
+
+  {/* IMAGE A GAUCHE */}
+  <div className="rounded-[1.7rem] border border-[#eadcc8] bg-white p-6 shadow-[0_16px_35px_rgba(93,70,44,0.05)]">
+    <div className="overflow-hidden rounded-[1.25rem] border border-[#efe3d5] bg-[#f8f1e7]">
+      <Image
+        src="/picqtures-ebook-mockup2.svg"
+        alt="Mockup de l'ebook"
+        width={900}
+        height={960}
+        className="h-auto w-full"
+      />
+    </div>
+    <p className="mt-5 text-xs font-bold uppercase tracking-[0.16em] text-[#8a7f73] [font-family:var(--font-farmasi-display)]">
+      Pour quoi
+    </p>
+    <div className="mt-4 space-y-3">
+      {[
+        "Plus de stabilité",
+        "Moins de coups de barre",
+        "Plus de contrôle",
+      ].map((item) => (
+        <div key={item} className="rounded-[1rem] bg-[#f8f1e7] px-4 py-3 text-sm text-[#3a322c]">
+          {item}
+        </div>
+      ))}
+    </div>
+  </div>
+
+  {/* TEXTE A DROITE */}
+  <div className="rounded-[1.7rem] border border-[#eadcc8] bg-[#fffdfa] p-7 shadow-[0_18px_40px_rgba(93,70,44,0.05)]">
+    <SectionEyebrow>Notre Ebook</SectionEyebrow>
+    <h2 className="mt-5 text-4xl leading-[0.96] tracking-[-0.05em] text-[#1f1a16] [font-family:var(--font-farmasi-display)] sm:text-5xl">
+     Reprends le contrôle
+      <br />
+      <span className="text-[#c8a96e] [font-family:var(--font-farmasi-serif)] italic">
+        chez les dirigeants
+      </span>
+    </h2>
+    <p className="mt-5 max-w-2xl text-base leading-8 text-[#70655a]">
+Pendant longtemps, j’ai cru que le problème venait du business.
+
+Trop de clients.
+Trop de décisions.
+Trop de pression.
+
+Mais en réalité… c’était beaucoup plus simple.
+
+ J’étais juste fatigué.    </p>
+
+    <div className="mt-6 grid gap-3 sm:grid-cols-3">
+      {[
+        "Café le matin pour tenir",
+        "Repas rapide le midi",
+        "Coup de barre à 15h",
+      ].map((item) => (
+        <div
+          key={item}
+          className="rounded-[1rem] border border-[#efe3d5] bg-[#f8f1e7] px-4 py-3 text-sm text-[#3a322c]"
+        >
+          {item}
+        </div>
+      ))}
+    </div>
+
+    <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+      <a
+        href="https://julienveyrac.gumroad.com/l/nutrition-dirigeants"
+        target="_blank"
+        rel="noreferrer"
+        className="home-black-button inline-flex items-center gap-2 rounded-full bg-[#1f1a16] px-5 py-3 text-sm font-semibold text-white transition hover:-translate-y-0.5"
+      >
+        Voir l'ebook
+        <ArrowIcon />
+      </a>
+      <a
+        href="#contact"
+        className="inline-flex items-center gap-2 rounded-full border border-[#ded1bf] bg-white px-5 py-3 text-sm font-semibold text-[#1f1a16] transition hover:-translate-y-0.5"
+      >
+        En discuter
+      </a>
+    </div>
+  </div>
+
+</div>
 
       <section id="apropos" className="px-4 py-20 sm:px-6 lg:px-8">
         <div className="mx-auto grid w-full max-w-6xl gap-4 lg:grid-cols-[0.9fr_minmax(0,1.1fr)]">
