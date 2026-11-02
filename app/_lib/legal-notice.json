@@ -1,0 +1,226 @@
+[
+  {
+    "title": "1. Éditeur du site",
+    "id": "1-editeur-du-site",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Le site de présentation de PICQ’TURES est édité par VPTC, société à responsabilité limitée au capital social de 2 700 €, exploitant le nom commercial PICQTURES, présenté sur le site sous la dénomination PICQ’TURES."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Siège social : 5 route du Buchet Haut, 38660 Sainte-Marie-d’Alloix, France.",
+          "SIREN : 937 954 212.",
+          "SIRET du siège : 937 954 212 00018.",
+          "Immatriculation : RCS Grenoble 937 954 212 ; société immatriculée au Registre national des entreprises.",
+          "Numéro de TVA intracommunautaire : FR27937954212.",
+          "Adresse e-mail : julien@picqtures.fr.",
+          "Téléphone : 06 50 55 56 51."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2. Directeur de la publication",
+    "id": "2-directeur-de-la-publication",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Le directeur de la publication est Julien Veyrac, en sa qualité de gérant de la société VPTC."
+      }
+    ]
+  },
+  {
+    "title": "3. Hébergement",
+    "id": "3-hebergement",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Le site est hébergé par Vercel Inc., 440 N Barranca Avenue #4133, Covina, CA 91723, États-Unis."
+      },
+      {
+        "type": "paragraph",
+        "text": "Téléphone publié par Vercel dans sa politique DMCA : +1 559 288 7060. Ce contact ne constitue pas un service d’assistance aux clients de PICQ’TURES."
+      },
+      {
+        "type": "paragraph",
+        "text": "[Site de l’hébergeur](https://vercel.com)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Coordonnées publiées par Vercel](https://vercel.com/legal/dmca-policy)"
+      }
+    ]
+  },
+  {
+    "title": "4. Objet et périmètre du site",
+    "id": "4-objet-et-perimetre-du-site",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "PICQ’TURES présente une activité de conseil et d’accompagnement des dirigeants pour leurs besoins professionnels et personnels. Les présentes mentions concernent ce site de présentation et ses moyens de prise de contact."
+      },
+      {
+        "type": "paragraph",
+        "text": "La présentation des services ne signifie pas que toutes les demandes sont incluses dans un abonnement. Le périmètre, les modalités d’intervention et les éventuels coûts externes sont précisés dans les documents contractuels applicables à la prestation."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les sujets nécessitant une compétence spécialisée ou une habilitation particulière sont orientés vers les professionnels compétents."
+      }
+    ]
+  },
+  {
+    "title": "5. Propriété intellectuelle",
+    "id": "5-propriete-intellectuelle",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Les textes, photographies, illustrations, logos, éléments graphiques et autres contenus du site sont susceptibles d’être protégés par le droit de la propriété intellectuelle. Les droits appartiennent à VPTC ou aux titulaires concernés, selon les contenus et les licences applicables."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sous réserve des exceptions prévues par la loi et des droits accordés par une licence, toute reproduction, représentation, adaptation ou exploitation d’un contenu protégé nécessite l’autorisation préalable du titulaire des droits."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les marques, logiciels, polices, bibliothèques et ressources de tiers restent soumis aux droits et conditions de leurs titulaires respectifs."
+      }
+    ]
+  },
+  {
+    "title": "6. Prise de contact et données personnelles",
+    "id": "6-prise-de-contact-et-donnees-personnelles",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Fonctionnement des formulaires"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les formulaires de contact préparent un message puis ouvrent l’application ou le service de messagerie choisi par l’utilisateur. Ils ne transmettent pas eux-mêmes le contenu saisi à une base de données de contact du site."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’utilisateur peut relire et modifier son message dans sa messagerie. PICQ’TURES reçoit les informations lorsque l’utilisateur procède à l’envoi du message. Le fonctionnement de la messagerie utilisée relève également des conditions et de la politique de confidentialité de son fournisseur."
+      },
+      {
+        "type": "heading",
+        "text": "Traitement des messages reçus"
+      },
+      {
+        "type": "paragraph",
+        "text": "VPTC est responsable du traitement des données reçues pour gérer les demandes de contact : identité, coordonnées, objet du message et informations volontairement communiquées."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ces données servent à répondre à la demande, échanger sur le besoin et, le cas échéant, préparer une proposition ou une prestation. Selon la demande, le traitement repose sur l’exécution de mesures précontractuelles prises à l’initiative de la personne ou sur l’intérêt légitime de VPTC à répondre aux sollicitations reçues."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les données sont accessibles aux personnes habilitées de VPTC et aux prestataires techniques de messagerie intervenant pour leur réception, leur hébergement et leur sécurité, dans la limite de leurs missions."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les échanges sont conservés pendant le temps nécessaire au traitement et au suivi de la demande, puis supprimés lorsqu’ils ne sont plus utiles. Les éléments nécessaires au respect d’une obligation légale ou à la constatation, à l’exercice ou à la défense de droits peuvent être conservés en archivage restreint pendant la durée applicable."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les informations nécessaires pour répondre à la demande doivent être communiquées ; à défaut, VPTC peut ne pas être en mesure d’y donner suite. L’utilisateur est invité à limiter son message aux informations utiles à sa demande."
+      },
+      {
+        "type": "heading",
+        "text": "Données techniques et hébergement"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’absence de base de données de contact sur le site n’exclut pas les traitements techniques liés à sa consultation. L’hébergeur peut notamment traiter des adresses IP, des dates de connexion et des informations relatives aux requêtes et au navigateur pour fournir le site, diagnostiquer les incidents et protéger l’infrastructure."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pour les traitements placés sous la responsabilité de VPTC, la fourniture et la sécurité du site reposent sur son intérêt légitime à proposer un service accessible et sécurisé. Les modalités de traitement et de conservation des données techniques dépendent des services d’hébergement concernés."
+      },
+      {
+        "type": "paragraph",
+        "text": "Vercel est une société établie aux États-Unis. Ses services peuvent impliquer des traitements de données hors de l’Espace économique européen. Vercel décrit les mécanismes applicables, notamment le cadre de protection des données UE–États-Unis pour les traitements couverts par sa certification et les clauses contractuelles types lorsqu’elles s’appliquent, dans sa documentation de protection des données."
+      },
+      {
+        "type": "paragraph",
+        "text": "[Notice de confidentialité de Vercel](https://vercel.com/legal/privacy-notice)"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Accord de traitement des données de Vercel](https://vercel.com/legal/dpa)"
+      },
+      {
+        "type": "heading",
+        "text": "Exercice des droits"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dans les conditions prévues par le RGPD et la loi Informatique et Libertés, les personnes concernées peuvent exercer leurs droits d’accès, de rectification, d’effacement, de limitation, d’opposition et, lorsqu’il est applicable, de portabilité. Lorsque le traitement repose sur un consentement, celui-ci peut être retiré pour l’avenir."
+      },
+      {
+        "type": "paragraph",
+        "text": "Les demandes peuvent être adressées à julien@picqtures.fr ou par courrier au siège social de VPTC. Une précision ou un justificatif d’identité peut être demandé uniquement si cela est nécessaire pour vérifier l’identité du demandeur."
+      },
+      {
+        "type": "paragraph",
+        "text": "Une réponse est apportée dans les délais prévus par la réglementation, en principe dans un délai d’un mois, avec les prolongations prévues pour les demandes complexes ou nombreuses. Une réclamation peut également être déposée auprès de la CNIL."
+      },
+      {
+        "type": "paragraph",
+        "text": "[Contacter la CNIL](https://www.cnil.fr/fr/plaintes)"
+      }
+    ]
+  },
+  {
+    "title": "7. Liens et services externes",
+    "id": "7-liens-et-services-externes",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Le site peut proposer des liens vers des services externes, notamment une messagerie électronique ou WhatsApp. Leur utilisation est soumise aux conditions et politiques de confidentialité de leurs exploitants."
+      },
+      {
+        "type": "paragraph",
+        "text": "VPTC ne contrôle pas le contenu ni les pratiques de traitement de données des sites et services tiers. L’utilisateur peut consulter leurs informations avant de leur transmettre des données."
+      }
+    ]
+  },
+  {
+    "title": "8. Informations et disponibilité",
+    "id": "8-informations-et-disponibilite",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "VPTC s’efforce de maintenir les informations du site à jour. Une information générale publiée sur le site ne constitue pas, à elle seule, une consultation spécialisée individualisée."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’accès au site peut être interrompu notamment pour maintenance, mise à jour ou en raison d’un incident technique. Aucune des présentes dispositions ne limite les responsabilités ou les droits qui ne peuvent être exclus par la loi."
+      }
+    ]
+  },
+  {
+    "title": "9. Réclamations",
+    "id": "9-reclamations",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Toute réclamation peut être adressée à julien@picqtures.fr ou par courrier au siège social de VPTC."
+      }
+    ]
+  },
+  {
+    "title": "10. Droit applicable",
+    "id": "10-droit-applicable",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Les présentes mentions sont soumises au droit français, sous réserve des dispositions impératives éventuellement applicables. Elles ne privent pas les consommateurs des protections et des droits dont ils bénéficient en vertu des textes applicables."
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+.intro { margin-bottom: 64px; }
+.main .intro h1 { margin: 20px 0 24px; font: 700 clamp(38px, 5vw, 66px)/1.1 "Space Grotesk", "Manrope", sans-serif; letter-spacing: -.055em; }
+.intro > p { color: #526e73; }
+.intro .updated { margin-top: 12px; font-size: 13px; }
+.layout { display: grid; grid-template-columns: 250px minmax(0, 1fr); align-items: start; gap: 48px; }
+.contents { position: sticky; top: 28px; padding: 26px; border: 1px solid #cbded8; border-radius: 24px; background: #e6f1eb; }
+.contents > p { margin: 0 0 18px; font-weight: 700; }
+.contents ol { padding-left: 18px; margin: 0; }
+.contents li { padding-left: 4px; margin-top: 12px; font-size: 13px; line-height: 1.65; }
+.contents a:hover { text-decoration: underline; text-underline-offset: 4px; }
+.sections { display: grid; gap: 36px; min-width: 0; }
+.section { padding: 32px; border: 1px solid #e2dcd3; border-radius: 26px; background: #fffdfa; }
+.main .section h2 { font-size: 25px; line-height: 1.35; margin-bottom: 24px; }
+.main .section h3 { font-size: 18px; line-height: 1.5; margin: 28px 0 14px; }
+.section p, .section li { color: #31575a; font-size: 15px; line-height: 1.85; }
+.section p { margin: 0; }
+.section p + p, .section ul + p { margin-top: 16px; }
+.section ul { padding-left: 22px; margin: 18px 0; }
+.section li + li { margin-top: 8px; }
+.section a { color: #ad4026; text-decoration: underline; text-underline-offset: 4px; }
+.section a:hover { color: #0d3b3d; }
+.skipLink { position: absolute; top: 12px; left: 20px; z-index: 20; transform: translateY(-200%); padding: 12px 20px; border-radius: 999px; background: #0d3b3d; color: white; }
+.skipLink:focus { transform: translateY(0); }
+.longContents { max-height: calc(100svh - 56px); overflow-y: auto; }
+.contents ul { padding: 0; margin: 0; list-style: none; }
+.tableScroll { max-width: 100%; margin-block: 24px; overflow-x: auto; border: 1px solid #cbded8; border-radius: 14px; }
+.tableScroll:focus-visible { outline: 2px solid #0d3b3d; outline-offset: 4px; }
+.tableScroll table { width: 100%; min-width: 520px; border-collapse: collapse; font-size: 13px; line-height: 1.65; text-align: left; }
+.tableScroll th, .tableScroll td { padding: 14px 16px; vertical-align: top; border-bottom: 1px solid #cbded8; }
+.tableScroll thead { background: #0d3b3d; color: #faf7f1; }
+.tableScroll tbody th { font-weight: 600; }
+.tableScroll tbody tr:nth-child(even) { background: #e6f1eb80; }
+.tableScroll tbody tr:last-child > * { border-bottom: 0; }
+@media (max-width: 900px) {
+  .layout { grid-template-columns: 1fr; gap: 32px; }
+  .contents { position: static; }
+  .longContents { max-height: none; }
+  .contents ol { columns: 2; column-gap: 36px; }
+  .contents li { break-inside: avoid; }
+}
+@media (max-width: 600px) {
+  .intro { margin-bottom: 36px; }
+  .contents ol { columns: 1; }
+  .section { padding: 24px; }
+  .main .section h2 { font-size: 22px; }
+  .sections { gap: 24px; }
+}

@@ -333,7 +333,7 @@
 .immersive .header { background: #FAF7F1; border-color: #0d3b3d20; }
 .immersive .intro h1 { color: #0D3B3D; }
 .immersive .intro h1 > span { color: #AD4026; }
-.immersive .headerCta { background: #F27759; color: #0D3B3D; border-radius: 999px; }
+.immersive .headerCta { background: #F27759; color: #fff; border-radius: 999px; }
 .immersive .headerCta:hover { background: #ed6847; }
 .immersive .mainNav { color: #0D3B3D; }
 .homeVisual::after { background: linear-gradient(90deg, #FAF7F1, #faf7f188 7%, transparent 23%); }
@@ -341,7 +341,7 @@
 .immersive .carouselItem h2 { font-size: clamp(22px, 1.8vw, 30px); opacity: max(.65, calc(1 - var(--depth) * .16)); }
 .immersive .carouselItem a { position: relative; display: flex; align-items: center; min-height: 54px; padding: 10px 62px 10px 16px; border-radius: 20px; color: #526e73; }
 .immersive .carouselItem[data-current="true"] a { color: #0D3B3D; background: #FBE6DB; font-weight: 600; }
-.immersive .carouselItem[data-current="true"] a::after { content: '→'; position: absolute; right: 12px; top: 50%; transform: translateY(-50%); display: grid; place-items: center; width: 38px; height: 38px; border-radius: 50%; background: #F27759; color: #0D3B3D; font-size: 21px; font-weight: 400; }
+.immersive .carouselItem[data-current="true"] a::after { content: '→'; position: absolute; right: 12px; top: 50%; transform: translateY(-50%); display: grid; place-items: center; width: 38px; height: 38px; border-radius: 50%; background: #F27759; color: #fff; font-size: 21px; font-weight: 400; }
 .immersive .carouselItem a:hover { color: #0D3B3D; }
 .immersive .explorerInstruction, .immersive .carouselCount { color: #526e73; }
 .immersive .explorer { margin-top: 24px; }

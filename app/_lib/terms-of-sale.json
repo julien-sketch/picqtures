@@ -1,0 +1,589 @@
+{
+  "version": "Version du 2 novembre 2026. Projet contractuel destiné aux nouvelles souscriptions après acceptation des présentes conditions. Les conditions particulières complètent les points propres à chaque commande.",
+  "sections": [
+    {
+      "title": "1. Prestataire et champ d’application",
+      "id": "1-prestataire-et-champ-dapplication",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Les présentes conditions générales de vente, dites « CGV », sont proposées par VPTC, SARL au capital de 2 700 €, exploitant le nom commercial PICQTURES sous la présentation PICQ’TURES, dont le siège social est situé 5 route du Buchet Haut, 38660 Sainte-Marie-d’Alloix, France. SIREN : 937 954 212 ; SIRET : 937 954 212 00018 ; RCS Grenoble 937 954 212 ; TVA intracommunautaire : FR27937954212. Contact : julien@picqtures.fr ; téléphone : 06 50 55 56 51. VPTC est représentée par Julien Veyrac, gérant."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le « Client » est la personne physique ou morale qui commande et règle la prestation dans le cadre de son activité professionnelle. Les « utilisateurs autorisés » sont les personnes identifiées pour bénéficier du service selon la formule choisie. La qualité de professionnel s’apprécie au regard de la réalité du contrat ; une simple déclaration ne peut écarter une disposition impérative applicable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les CGV couvrent les abonnements Essentiel et Entreprise, les interventions ponctuelles et les missions complémentaires de conseil et d’accompagnement convenues avec PICQ’TURES. Les prestations relevant d’un contrat distinct, notamment une licence SaaS, une location de matériel ou de véhicule, une billetterie d’événement ou la vente de services de voyage, ne sont pas automatiquement couvertes par les présentes CGV."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les besoins personnels des bénéficiaires peuvent être pris en charge dans les limites de la formule, sans modifier l’identité du cocontractant ni le payeur convenu. Le Client apprécie les conséquences comptables, fiscales et sociales de ses dépenses et des avantages accordés aux bénéficiaires ; PICQ’TURES ne promet pas leur déductibilité."
+        }
+      ]
+    },
+    {
+      "title": "2. Documents contractuels et acceptation",
+      "id": "2-documents-contractuels-et-acceptation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Avant la commande, le Client reçoit sur un support durable la proposition, le devis ou le bon de souscription, les présentes CGV et les informations utiles sur le prix, le périmètre et le démarrage. Les conditions particulières expressément acceptées prévalent sur les CGV en cas de contradiction."
+        },
+        {
+          "type": "paragraph",
+          "text": "La commande devient ferme après accord explicite du Client sur l’offre et sur la version des CGV qui lui a été communiquée, puis confirmation de PICQ’TURES. L’accord peut être donné par signature ou par un échange écrit permettant d’identifier son auteur et les conditions acceptées. Le silence ou une simple navigation sur le site ne vaut pas commande."
+        },
+        {
+          "type": "paragraph",
+          "text": "La confirmation précise le Client, la formule ou la mission, les bénéficiaires, les canaux de contact, le prix, le calendrier de facturation et, pour un abonnement, ses dates de début et de fin. Le démarrage intervient à la date convenue après réception du premier paiement, sous réserve des règles impératives, notamment celles décrites à l’article 18."
+        },
+        {
+          "type": "paragraph",
+          "text": "La publication d’une nouvelle version des CGV ou d’un nouveau tarif ne modifie pas un contrat en cours. Toute modification d’une condition essentielle nécessite un accord distinct. Les anciennes formules restent régies par les conditions qui leur étaient applicables, sauf avenant accepté."
+        }
+      ]
+    },
+    {
+      "title": "3. Nature de l’accompagnement et décisions du Client",
+      "id": "3-nature-de-laccompagnement-et-decisions-du-client",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "PICQ’TURES aide le dirigeant à clarifier son besoin, examiner ses options, rechercher et comparer des solutions, sélectionner des professionnels, organiser une mise en relation et prendre en charge les actions expressément convenues. L’accompagnement peut inclure une exécution, une coordination et un suivi simples."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tout sujet peut être soumis. Sa prise en charge dépend de sa nature, du périmètre contractuel et du cadre applicable. PICQ’TURES conseille dans son champ de compétence. Les consultations et actes réservés à une profession réglementée, notamment juridiques, comptables, financiers ou médicaux, relèvent des professionnels habilités et de leurs propres conditions d’intervention."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Client conserve la décision finale. Une validation écrite est requise avant une dépense, un engagement auprès d’un tiers ou une action excédant les instructions déjà données. L’accord sur un abonnement ne constitue pas un mandat général d’achat, de signature ou de représentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les recherches et recommandations relèvent d’une obligation de moyens : aucune disponibilité, économie, acceptation d’un dossier, obtention d’un financement ou réussite commerciale particulière n’est promise. Cette obligation de moyens ne neutralise pas les engagements précis acceptés, notamment les délais de première réponse."
+        }
+      ]
+    },
+    {
+      "title": "4. Abonnements",
+      "id": "4-abonnements",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Caractéristique",
+            "Essentiel",
+            "Entreprise"
+          ],
+          "rows": [
+            [
+              "Prix mensuel",
+              "79 € HT",
+              "249 € HT"
+            ],
+            [
+              "Durée ferme",
+              "12 mois",
+              "12 mois"
+            ],
+            [
+              "Montant pour les 12 mois, hors prestations supplémentaires",
+              "948 € HT",
+              "2 988 € HT"
+            ],
+            [
+              "Règlement",
+              "Mensuel",
+              "Mensuel"
+            ],
+            [
+              "Bénéficiaires",
+              "Un dirigeant identifié",
+              "Une entreprise, jusqu’à trois utilisateurs autorisés"
+            ],
+            [
+              "Besoins personnels",
+              "Dirigeant bénéficiaire",
+              "Dirigeants et associés ; collaborateurs : besoins professionnels uniquement"
+            ],
+            [
+              "Demandes courantes",
+              "Illimitées",
+              "Illimitées"
+            ],
+            [
+              "Première réponse personnalisée",
+              "Sous 48 heures calendaires",
+              "Prioritaire, sous 24 heures calendaires"
+            ],
+            [
+              "Disponibilité du service",
+              "De 9 h à 22 h, 7 jours sur 7",
+              "De 9 h à 22 h, 7 jours sur 7"
+            ],
+            [
+              "Envoi des demandes",
+              "24 h/24, 7 j/7",
+              "24 h/24, 7 j/7"
+            ],
+            [
+              "Suivi spécifique",
+              "Selon les demandes en cours",
+              "Suivi mensuel, personnalisation, anticipation autorisée et interlocuteur référent"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Les horaires sont exprimés à l’heure de Paris. Les conditions particulières identifient le dirigeant bénéficiaire ou les utilisateurs autorisés. Leur remplacement peut être convenu par écrit, dans la limite du nombre et des droits de la formule ; les accès ne sont pas destinés à être partagés avec des personnes non autorisées."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le suivi mensuel Entreprise permet de faire le point sur les sujets, échéances et priorités. Son format est convenu avec le Client. L’anticipation porte sur les informations communiquées et les actions autorisées ; elle ne vaut pas autorisation de dépense sans validation."
+        }
+      ]
+    },
+    {
+      "title": "5. Demandes courantes incluses et missions complémentaires",
+      "id": "5-demandes-courantes-incluses-et-missions-complementaires",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Les demandes courantes comprennent notamment les recherches et comparaisons simples, la sélection de prestataires, la vérification de disponibilités, les mises en relation, les idées et recherches de cadeaux, les recherches de déplacements, les réservations courantes et l’exécution simple après validation."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’illimité concerne le nombre de demandes courantes des bénéficiaires autorisés. Aucun quota mensuel ni compteur de demandes n’est appliqué. Il n’existe pas de dépassement automatique facturé après une heure : le passage sur devis dépend du travail et de l’organisation effectivement nécessaires."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Situation",
+            "Traitement"
+          ],
+          "rows": [
+            [
+              "Demande simple, même récurrente",
+              "Incluse dans l’abonnement"
+            ],
+            [
+              "Modification, relance, négociation ou suivi simples",
+              "Inclus"
+            ],
+            [
+              "Attente d’un prestataire",
+              "Ne suffit pas à rendre la mission complexe"
+            ],
+            [
+              "Recherche sans résultat adapté ou disponible",
+              "Travail de recherche inclus ; le résultat n’est pas promis"
+            ],
+            [
+              "Réservations multiples ou de groupe",
+              "Incluses si l’organisation demeure simple"
+            ],
+            [
+              "Gestion continue ou travail important",
+              "Mission complémentaire sur devis"
+            ],
+            [
+              "Négociation prolongée, litige complexe, organisation importante",
+              "Périmètre et honoraires distincts sur devis"
+            ],
+            [
+              "Besoin qui évolue",
+              "Partie initiale incluse ; complément après acceptation du devis"
+            ],
+            [
+              "Urgence courante",
+              "Incluse si elle peut être traitée selon les disponibilités"
+            ],
+            [
+              "Mobilisation express exceptionnelle",
+              "Supplément uniquement après accord préalable"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "PICQ’TURES explique le motif d’un devis complémentaire avant de l’exécuter. Le Client peut l’accepter, ajuster son besoin ou ne pas poursuivre cette partie. Aucune facturation rétroactive d’un supplément non accepté n’est appliquée."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les coûts d’achat, de transport, d’hébergement, de billetterie, de restauration, de livraison, de consultation spécialisée et les prestations des tiers restent à la charge du Client. Ils ne sont pas inclus dans le prix de l’abonnement."
+        }
+      ]
+    },
+    {
+      "title": "6. Canaux, délais et suivi",
+      "id": "6-canaux-delais-et-suivi",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Les demandes sont adressées par les canaux écrits convenus dans la confirmation, notamment e-mail ou WhatsApp. Elles peuvent être envoyées à toute heure ; l’envoi d’un message en dehors des horaires ne signifie pas une permanence de traitement nocturne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le délai de 48 ou 24 heures calendaires court à compter de la réception de la demande sur un canal convenu. Il s’agit d’une première réponse personnalisée portant sur le besoin, les prochaines actions ou les précisions nécessaires. Un accusé automatique ne constitue pas cette première réponse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le délai de première réponse n’est pas un délai de résolution. L’exécution dépend notamment des validations du Client, des disponibilités et réponses des tiers et de la nature du sujet. PICQ’TURES informe le Client des étapes utiles et des difficultés identifiées. Les compléments nécessaires peuvent être demandés sans remettre à zéro le délai de première réponse déjà engagé."
+        },
+        {
+          "type": "paragraph",
+          "text": "Une échéance impérative, un livrable ou une date d’exécution font l’objet d’une confirmation spécifique. L’urgence signalée par le Client n’entraîne pas, à elle seule, l’acceptation d’une obligation de résultat ou d’un supplément."
+        }
+      ]
+    },
+    {
+      "title": "7. Prix des missions ponctuelles et des compléments",
+      "id": "7-prix-des-missions-ponctuelles-et-des-complements",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Les missions hors abonnement et les compléments sont chiffrés avant accord, au forfait, au temps convenu ou selon une méthode de calcul précisément définie. Le devis indique l’objectif, les actions, les livrables éventuels, les honoraires, les coûts externes connus ou leur estimation, les modalités de paiement et le calendrier utile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Selon la mission, la pratique commerciale de PICQ’TURES peut conduire à proposer des honoraires représentant généralement 10 à 20 % d’un montant de référence, avec un minimum généralement proposé de 50 €. Des adaptations, notamment une dégressivité pour les montants élevés, peuvent être convenues. Ces indications ne constituent pas un barème automatique ni une commission due du seul fait d’une mise en relation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorsqu’un pourcentage est proposé, le devis précise son taux, le montant servant de base, son caractère HT ou TTC, les éléments compris ou exclus, le traitement de la TVA sur les honoraires et le fait générateur de leur exigibilité. Une base d’achat TTC n’implique pas que les honoraires soient eux-mêmes TTC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Une mission de conseil sans achat fait l’objet d’un prix défini avant sa réalisation. Aucun pourcentage ne peut être appliqué à une base indéterminée."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorsqu’une rémunération d’apport d’affaires par un tiers est envisagée, elle doit être autorisée par le cadre applicable. Son existence, ses effets éventuels sur la recommandation et l’articulation avec les honoraires du Client sont clarifiés avant engagement. Aucun cumul de rémunérations non annoncé ne résulte des présentes CGV."
+        }
+      ]
+    },
+    {
+      "title": "8. Taxes, frais, facturation et paiement",
+      "id": "8-taxes-frais-facturation-et-paiement",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Les prix sont exprimés en euros hors taxes. La TVA au taux légal applicable est ajoutée et indiquée sur la proposition et la facture. Les montants dus aux tiers sont distingués des honoraires de PICQ’TURES."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les abonnements sont réglés mensuellement selon les dates convenues. À défaut de calendrier différent accepté, la première facture correspond au démarrage convenu puis les suivantes aux échéances mensuelles anniversaires ; elles sont payables à réception, sous réserve de l’article 18. Le premier règlement reçu tardivement ne peut provoquer une facturation de jours de service non ouverts sans accord."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les missions ponctuelles suivent l’échéancier du devis. À défaut de disposition particulière, la facture de la prestation réalisée est payable à réception. Tout acompte ou avance de frais doit avoir été annoncé et accepté avant sa demande."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le règlement intervient par virement ou par tout autre moyen sécurisé expressément proposé sur la facture ou la confirmation. Aucun prélèvement ni débit automatique n’est autorisé par les seules CGV. Un mandat ou une autorisation distincte est nécessaire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aucun escompte n’est accordé pour paiement anticipé, sauf accord écrit. Les remises ou conditions particulières éventuelles figurent sur la proposition acceptée. Une contestation peut être adressée à julien@picqtures.fr ; son examen ne prive pas le Client de ses droits ni n’autorise une rétention arbitraire des sommes non contestées."
+        }
+      ]
+    },
+    {
+      "title": "9. Retard de paiement",
+      "id": "9-retard-de-paiement",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Les pénalités de retard sont exigibles à compter du lendemain de la date d’échéance, sans rappel préalable, selon l’article L. 441-10 du Code de commerce. Le taux retenu est celui appliqué par la Banque centrale européenne à son opération de refinancement la plus récente, majoré de dix points de pourcentage. Pour le premier semestre, le taux de référence est celui en vigueur au 1er janvier ; pour le second semestre, celui en vigueur au 1er juillet de l’année concernée."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’indemnité forfaitaire pour frais de recouvrement est de 40 € par facture payée en retard. Une indemnisation complémentaire peut être demandée sur justification lorsque les frais réellement exposés dépassent ce montant. Les exceptions légales, notamment celles relatives aux procédures collectives, demeurent applicables."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ces éléments et la date d’échéance doivent être repris sur les factures. La suspension du service et la résiliation obéissent à l’article 14 ; les pénalités ne constituent pas une autorisation d’interrompre sans information toutes les demandes en cours."
+        }
+      ]
+    },
+    {
+      "title": "10. Durée, terme et renouvellement",
+      "id": "10-duree-terme-et-renouvellement",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "L’abonnement est conclu pour une durée ferme de douze mois à compter de la date de démarrage indiquée dans la confirmation. Le paiement mensuel constitue un étalement du prix ; il ne transforme pas l’engagement en contrat résiliable librement chaque mois."
+        },
+        {
+          "type": "paragraph",
+          "text": "À l’issue des douze mois, l’abonnement prend fin automatiquement. Il n’existe pas de reconduction tacite ni de préavis de non-renouvellement. Toute nouvelle période nécessite un nouvel accord exprès sur la formule, les prix et les conditions applicables."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Client peut indiquer à tout moment qu’il ne souhaite pas conclure une nouvelle période. Cette indication n’écourte pas à elle seule la période ferme en cours. L’absence de demandes ou la non-utilisation du service n’entraîne pas un crédit de demandes ni un remboursement lorsque le service convenu a été effectivement maintenu à disposition."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les règles impératives, la rétractation éventuellement applicable et la résiliation pour manquement restent réservées. Une sortie anticipée de convenance peut être négociée par écrit ; ses conséquences financières sont alors précisées, sans déchéance automatique de toutes les échéances futures prévue par les présentes CGV."
+        }
+      ]
+    },
+    {
+      "title": "11. Validation des dépenses, tiers et déplacements",
+      "id": "11-validation-des-depenses-tiers-et-deplacements",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Les achats et prestations externes sont, en principe, contractés et payés directement par le Client au fournisseur concerné. Toute action de PICQ’TURES au nom et pour le compte du Client suppose un mandat précis accepté séparément : objet, plafond, durée, validations et éventuelle avance de fonds."
+        },
+        {
+          "type": "paragraph",
+          "text": "PICQ’TURES précise son rôle pour la mission : conseil, recherche, mise en relation, exécution de sa propre prestation ou coordination. Le fournisseur tiers est identifié lorsque son intervention est proposée ; ses prix et conditions d’annulation doivent pouvoir être examinés avant acceptation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le tiers répond de sa propre prestation lorsqu’il contracte directement avec le Client. PICQ’TURES reste responsable de ses propres fautes de conseil, de sélection, de transmission d’instructions ou de coordination dans le cadre de ce qu’elle s’est engagée à faire. Les présentes CGV n’instaurent pas une exonération générale concernant tout acte d’un tiers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pour les déplacements, les recherches et comparaisons simples ainsi que l’accompagnement à la réservation avec paiement direct du Client peuvent entrer dans l’abonnement. Une organisation complexe nécessite un devis et la vérification préalable du cadre applicable. La vente ou l’organisation réglementée de voyages, séjours ou services touristiques ne peut être exercée sur le seul fondement des présentes CGV : elle doit relever d’un opérateur habilité ou d’un dispositif conforme identifié avant l’engagement."
+        }
+      ]
+    },
+    {
+      "title": "12. Annulation d’une mission et frais des tiers",
+      "id": "12-annulation-dune-mission-et-frais-des-tiers",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La modification ou l’annulation d’une mission est signalée au plus tôt par écrit. Les actions simples de modification et de suivi comprises dans l’abonnement restent incluses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pour une mission ponctuelle ou complémentaire, le devis peut définir des étapes et des frais d’annulation proportionnés. À défaut, un arrêt convenu donne lieu à un décompte des prestations déjà réalisées, des frais externes préalablement autorisés et des sommes éventuellement à restituer, sous réserve des règles impératives applicables. Une indemnisation supplémentaire n’est pas forfaitairement présumée acquise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les conditions du tiers régissent les remboursements et pénalités de ses prestations lorsqu’il contracte avec le Client. Aucune garantie générale de remboursement par ce tiers ne résulte des présentes CGV."
+        }
+      ]
+    },
+    {
+      "title": "13. Obligations du Client et bénéficiaires",
+      "id": "13-obligations-du-client-et-beneficiaires",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Le Client fournit des informations exactes et utiles, désigne les personnes pouvant donner des instructions, indique les contraintes et budgets et répond aux demandes de validation nécessaires. Il communique rapidement les changements susceptibles d’affecter une mission."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les utilisateurs Entreprise respectent leurs droits : besoins professionnels et personnels pour les dirigeants et associés identifiés, professionnels uniquement pour les collaborateurs. La formule n’est pas destinée à la revente du service à des tiers non autorisés."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Client ne doit pas adresser d’instructions illicites, frauduleuses ou portant atteinte aux droits d’autrui. La transmission de mots de passe, de codes à usage unique ou de données de carte bancaire par message ordinaire n’est pas nécessaire à la prestation ; les opérations d’authentification et de paiement doivent emprunter les dispositifs sécurisés appropriés."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Client informe les personnes dont il communique les données lorsque cela lui incombe et limite la transmission aux informations pertinentes. Les données de salariés, clients, proches ou enfants ne doivent pas être communiquées sans nécessité ni justification appropriée."
+        }
+      ]
+    },
+    {
+      "title": "14. Suspension et résiliation pour manquement",
+      "id": "14-suspension-et-resiliation-pour-manquement",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "En cas de manquement suffisamment grave, notamment d’impayé ou d’instructions dépassant les droits autorisés, la partie concernée reçoit une demande écrite précisant le problème et le remède attendu. À défaut de régularisation dans les quinze jours suivant la réception d’une mise en demeure mentionnant expressément la possibilité de résiliation, l’autre partie peut notifier une résiliation motivée, sous réserve du droit applicable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Une suspension immédiate limitée aux actions concernées peut être nécessaire en cas de fraude, de menace, de harcèlement, d’instruction illicite ou de risque sérieux pour la sécurité. Elle est motivée et portée à la connaissance du Client dans les meilleurs délais compatibles avec la situation. Le seul nombre de demandes courantes ne caractérise pas un manquement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toute suspension est proportionnée à sa cause. La facturation d’une période non exécutée du fait de PICQ’TURES et les conséquences d’une résiliation sont régularisées selon les prestations effectivement fournies, les sommes échues, les responsabilités établies et les dispositions applicables. Aucune clause ne permet à PICQ’TURES de conserver systématiquement toutes les sommes ou de réclamer sans distinction tous les mois restant à courir."
+        },
+        {
+          "type": "paragraph",
+          "text": "La résiliation de l’abonnement ne supprime pas les obligations de confidentialité, de paiement des sommes légitimement dues, de protection des données et de traitement des dossiers de clôture."
+        }
+      ]
+    },
+    {
+      "title": "15. Responsabilité",
+      "id": "15-responsabilite",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La responsabilité de PICQ’TURES peut être engagée en cas de faute prouvée lui étant imputable, pour les dommages directs et prévisibles présentant un lien de causalité avec cette faute. Le Client signale les difficultés dès qu’il en a connaissance afin de permettre leur examen et, lorsque cela est possible, leur correction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sous réserve de sa validité et des exceptions ci-dessous, la responsabilité contractuelle au titre d’une mission ponctuelle ou complémentaire est plafonnée aux honoraires HT effectivement payés pour la mission concernée. Pour l’abonnement, elle est plafonnée aux honoraires HT effectivement payés au titre de l’abonnement pendant les douze mois précédant le fait générateur. Les coûts payés directement aux tiers ne sont pas des honoraires de PICQ’TURES."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce plafond ne s’applique pas en cas de faute lourde ou dolosive, de dommage corporel, de responsabilité que la loi interdit de limiter, ni lorsqu’il aurait pour effet de priver de sa substance une obligation essentielle. Il ne peut restreindre les droits propres des personnes concernées au titre du RGPD ni les dispositions impératives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Une perte de chiffre d’affaires ou de chance ne peut être exclue par sa seule dénomination : sa qualification, sa prévisibilité et son lien avec la faute s’apprécient selon le droit applicable. Aucune disposition n’écarte la responsabilité de PICQ’TURES du seul fait du recours à un tiers ou à un outil numérique."
+        }
+      ]
+    },
+    {
+      "title": "16. Confidentialité, livrables et outils",
+      "id": "16-confidentialite-livrables-et-outils",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Chaque partie préserve la confidentialité des informations professionnelles et personnelles non publiques obtenues à l’occasion des missions. Leur utilisation est limitée à l’exécution du contrat et aux obligations légales. Une communication à un tiers intervenant est limitée aux éléments nécessaires et effectuée dans un cadre approprié."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ne relèvent pas de cette obligation les informations déjà licitement publiques, reçues licitement d’un tiers ou dont la communication est légalement requise. La partie concernée informe l’autre d’une communication imposée dans la mesure autorisée."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’obligation demeure pendant cinq ans après la fin du contrat ; les secrets protégés par la loi restent couverts selon leur régime propre. Le nom, le logo, le témoignage ou les détails d’une mission du Client ne sont pas utilisés comme référence commerciale sans autorisation appropriée."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les documents et données apportés par le Client demeurent soumis à ses droits. Les contenus et outils préexistants de PICQ’TURES ou de tiers conservent leurs droits et licences. Toute cession de droits sur un livrable est décrite dans le devis ou un acte distinct : droits concernés, usages, destination, durée et territoire. À défaut de cession, le Client bénéficie, après paiement, d’un droit non exclusif d’utilisation du livrable pour les usages expressément convenus, sans cession implicite des outils préexistants."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le recours à un outil numérique ou d’intelligence artificielle ne dispense pas PICQ’TURES de ses obligations contractuelles et de protection des données. L’acceptation des CGV ne vaut pas autorisation générale de divulguer des informations confidentielles à un tiers ni de les utiliser pour entraîner un modèle."
+        }
+      ]
+    },
+    {
+      "title": "17. Données personnelles",
+      "id": "17-donnees-personnelles",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La politique de confidentialité remise au Client et accessible sur le site présente les traitements liés au contact, à la gestion de la relation et aux missions. En prendre connaissance ne constitue pas un consentement général à tous les traitements ; chaque opération doit reposer sur sa propre base légale."
+        },
+        {
+          "type": "paragraph",
+          "text": "VPTC agit comme responsable de traitement pour sa gestion commerciale et administrative. Lorsqu’une mission implique de traiter, exclusivement sur les instructions d’un Client, des données dont celui-ci détermine les finalités, les parties qualifient leurs rôles et concluent, si nécessaire, un accord de sous-traitance conforme à l’article 28 du RGPD avant le traitement concerné. Les CGV ne remplacent pas cet accord."
+        }
+      ]
+    },
+    {
+      "title": "18. Droit de rétractation : cas de certains contrats hors établissement",
+      "id": "18-droit-de-retractation-cas-de-certains-contrats-hors-etablissement",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Aucun droit général de rétractation n’est accordé par les présentes CGV pour tous les contrats professionnels. Toutefois, l’article L. 221-3 du Code de la consommation étend certaines protections aux contrats conclus hors établissement entre professionnels lorsque l’objet n’entre pas dans le champ de l’activité principale du professionnel sollicité et que celui-ci emploie au plus cinq salariés. La qualification du contrat est examinée selon les circonstances réelles de sa conclusion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si ce régime s’applique, le Client bénéficie notamment d’un délai de rétractation de quatorze jours à compter de la conclusion du contrat de services, selon les règles légales de calcul du délai. Il peut notifier sa décision par une déclaration dénuée d’ambiguïté adressée à julien@picqtures.fr ou au siège de VPTC, ou utiliser le formulaire de l’annexe 2. Les CGV ne réduisent pas les délais plus favorables prévus par la loi en cas de défaut d’information."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aucun paiement ni contrepartie n’est reçu avant l’expiration du délai de sept jours suivant la conclusion du contrat hors établissement lorsque l’interdiction prévue à l’article L. 221-10 s’applique, sauf exception légale pertinente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si le Client souhaite un commencement de prestation avant la fin du délai de rétractation, sa demande expresse est recueillie séparément sur un support durable. Il reconnaît les conséquences prévues par la loi, notamment le paiement proportionnel du service exécuté avant une rétractation valable, sous les conditions légales, et la perte de ce droit seulement après exécution complète lorsque les conditions de cette perte sont réunies. Le démarrage d’un abonnement annuel ne signifie pas son exécution complète."
+        },
+        {
+          "type": "paragraph",
+          "text": "La souscription, le paiement ou une case générale d’acceptation des CGV ne constituent pas à eux seuls une renonciation valable. Le formulaire et la demande de démarrage anticipé sont remis séparément lorsque ce régime est applicable."
+        }
+      ]
+    },
+    {
+      "title": "19. Force majeure",
+      "id": "19-force-majeure",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La force majeure s’apprécie conformément à l’article 1218 du Code civil. La partie empêchée informe l’autre de la situation, des obligations concernées et, lorsque cela est possible, de sa durée prévisible, et recherche les mesures appropriées pour limiter les conséquences."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un empêchement temporaire peut suspendre les obligations concernées dans les conditions légales. S’il est définitif, ou si le retard justifie la fin du contrat, les conséquences sont réglées selon le droit applicable et les prestations exécutées. Une difficulté ordinaire d’organisation ou toute indisponibilité d’un prestataire ne constitue pas automatiquement une force majeure."
+        }
+      ]
+    },
+    {
+      "title": "20. Réclamations, droit applicable et litiges",
+      "id": "20-reclamations-droit-applicable-et-litiges",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Toute réclamation peut être adressée à julien@picqtures.fr ou au siège social en précisant le contrat concerné et les difficultés rencontrées. Les parties peuvent rechercher une solution amiable ; cette démarche n’empêche pas un recours urgent ni l’exercice des droits dans les délais applicables."
+        },
+        {
+          "type": "paragraph",
+          "text": "Les présentes CGV sont soumises au droit français, sous réserve des dispositions impératives applicables. À défaut d’accord amiable, le litige est porté devant la juridiction compétente selon les règles de droit commun. Les CGV n’imposent pas à tous les professionnels une compétence territoriale exclusive à Grenoble."
+        }
+      ]
+    },
+    {
+      "title": "Annexe 1. Informations à reprendre dans la confirmation de commande",
+      "id": "annexe-1-informations-a-reprendre-dans-la-confirmation-de-commande",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Identité du Client, adresse, SIREN, représentant et qualité professionnelle.",
+            "Formule choisie : Essentiel 79 € HT/mois ou Entreprise 249 € HT/mois, ou devis de mission identifié.",
+            "Bénéficiaire Essentiel ou liste des utilisateurs Entreprise, avec leurs rôles et droits.",
+            "Date de démarrage et date de fin des douze mois, sans renouvellement automatique.",
+            "Montant total HT de l’engagement, TVA applicable, total TTC et échéancier mensuel daté.",
+            "Canaux écrits retenus et coordonnées de contact.",
+            "Prestations supplémentaires, livrables, budget externe et mandats éventuels.",
+            "Version des CGV remise sur support durable et preuve de son acceptation.",
+            "Circonstances de souscription et examen du régime hors établissement si pertinent."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Les espaces à renseigner dans une commande ne constituent pas des informations manquantes dans le texte général des CGV ; ils sont propres à chaque Client."
+        }
+      ]
+    },
+    {
+      "title": "Annexe 2. Rétractation — uniquement lorsque le régime de l’article 18 s’applique",
+      "id": "annexe-2-retractation-uniquement-lorsque-le-regime-de-larticle-18-sapplique",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Formulaire à adresser seulement si le Client souhaite se rétracter d’un contrat bénéficiant de ce droit."
+        },
+        {
+          "type": "paragraph",
+          "text": "À l’attention de VPTC — PICQ’TURES, 5 route du Buchet Haut, 38660 Sainte-Marie-d’Alloix, France ; julien@picqtures.fr."
+        },
+        {
+          "type": "paragraph",
+          "text": "« Je vous notifie ma rétractation du contrat de prestation de services suivant : [désignation]. Contrat conclu le : [date]. Nom ou dénomination du Client : [identité]. Adresse : [adresse]. Nom et qualité du signataire : [identité et fonction]. Date : [date]. Signature : [uniquement en cas d’envoi sur papier]. »"
+        },
+        {
+          "type": "paragraph",
+          "text": "Demande distincte de démarrage anticipé, à utiliser si elle correspond au souhait du Client et si le régime légal applicable le permet :"
+        },
+        {
+          "type": "paragraph",
+          "text": "« Je demande expressément que la prestation identifiée [référence] commence à compter du [date], avant la fin du délai de rétractation. J’ai été informé que, si j’exerce valablement mon droit après le commencement demandé, je peux devoir régler le montant proportionnel correspondant au service exécuté dans les conditions légales. Je reconnais que la perte du droit de rétractation ne peut intervenir qu’après l’exécution complète du contrat et dans les conditions prévues par la loi. »"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cette demande est datée et acceptée séparément. Elle ne permet pas d’écarter l’interdiction de recevoir un paiement pendant les sept jours lorsqu’elle est applicable."
+        }
+      ]
+    }
+  ]
+}

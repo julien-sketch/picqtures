@@ -224,7 +224,7 @@
 /* Rounded service panels using the home palette and typography. */
 .page { --accent: #F27759; background: radial-gradient(ellipse at 50% 68%, #fffdfa 0%, #FAF7F1 76%); }
 .page > footer { background: #0D3B3D; color: #FAF7F1; border-color: #0D3B3D; }
-.page > header > a:last-of-type, .page .primaryButton, .page.secondaryPage main a[class*="pill"] { background: #F27759; color: #0D3B3D; }
+.page > header > a:last-of-type, .page .primaryButton, .page.secondaryPage main a[class*="pill"] { background: #F27759; color: #fff; }
 .page > header > a:last-of-type:hover, .page .primaryButton:hover { background: #ed6847; }
 .page .hero { position: relative; display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); padding: 0; gap: 56px; align-items: center; border: 0; border-radius: 0; background: transparent; box-shadow: none; }
 .page .breadcrumb { position: relative; z-index: 2; padding-bottom: 20px; margin-bottom: 32px; border-bottom: 1px solid #0d3b3d26; font-size: 13px; }
@@ -308,7 +308,7 @@
 .page .relatedCopy p { max-width: 780px; margin: 0; font-size: 16px; line-height: 1.6; }
 .page .relatedArrow { display: inline-flex; align-items: center; gap: 18px; margin-top: 10px; padding: 0 0 3px; border-bottom: 1px solid #0D3B3D; font-size: 15px; }
 .page .relatedCircle { display: grid; place-items: center; width: 56px; height: 56px; border: 1px solid #0D3B3D; border-radius: 50%; font-size: 28px; transition: background-color 150ms ease; }
-.page .relatedCard:hover .relatedCircle { background: #F27759; }
+.page .relatedCard:hover .relatedCircle { background: #F27759; color: #fff; }
 .page .relatedCard:hover h3 { text-decoration: underline; text-underline-offset: 5px; }
 @media (max-width: 1000px) {
   .page .termsPanel { padding: 32px; }

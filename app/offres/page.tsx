@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { SiteHeader } from "../_components/site-header";
 import { SiteFooter } from "../_components/site-footer";
 import { CONTACT } from "../_lib/topic-links";
@@ -35,6 +36,7 @@ export default function OffersPage() {
       <section className={styles.framework} aria-labelledby="framework-title">
         <div className={styles.sectionHeading}><p className={serviceStyles.eyebrow}>Le cadre de l’accompagnement</p><h2 id="framework-title">Un cadre clair pour vos demandes</h2></div>
         <ul className={styles.frameworkList}><li>Les délais concernent une première réponse personnalisée, et non la résolution de la demande.</li><li>Les achats, réservations payantes et prestations externes restent à votre charge.</li><li>Les missions importantes ou nécessitant une gestion continue font l’objet d’un devis accepté avant leur réalisation.</li><li>Les modifications, relances et suivis simples liés aux demandes courantes sont inclus.</li><li>L’attente de la réponse d’un prestataire ne rend pas à elle seule une demande complexe.</li><li>Aucun résultat de recherche n’est garanti.</li></ul>
+        <Link className={serviceStyles.textLink} href="/cgv">Consulter les conditions générales de vente <span aria-hidden="true">↗</span></Link>
       </section>
       <section className={styles.oneOff} aria-labelledby="one-off-title">
         <div><p className={serviceStyles.eyebrow}>Une mission, un cadre défini ensemble</p><h2 id="one-off-title">Un besoin ponctuel ?</h2><p>Une intervention sans abonnement est possible. Le périmètre, les honoraires et les éventuels coûts externes sont précisés avant votre accord.</p></div>
