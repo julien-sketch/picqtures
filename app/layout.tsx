@@ -23,9 +23,9 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Julien Veyrac | Business, image, gain de temps, sans filtre",
+  title: "PICQ’TURES | Conseiller du dirigeant — Pro et perso",
   description:
-    "Hub personnel de Julien Veyrac pour decouvrir ses services, ses ressources et ses projets autour du business, de l'image et du gain de temps.",
+    "Un interlocuteur pour vos besoins professionnels et personnels : conseil, recherche de solutions, mise en relation et prise en charge des démarches convenues.",
 };
 
 export default function RootLayout({

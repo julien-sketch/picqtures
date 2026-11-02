@@ -1,0 +1,16 @@
+{
+  "implementation": "Anneau 3D de 26 cartes avec rotation continue sur l’axe Y",
+  "checks": [
+    "Compilation réussie et types validés",
+    "26 cartes, sans duplication",
+    "Rotation 26 vers 1 et 1 vers 26",
+    "Glissement sans navigation accidentelle",
+    "Flèches clavier",
+    "Liste des 26 destinations",
+    "Sélection conservée sur mobile",
+    "Aucun débordement horizontal à 390 px",
+    "Footer sans séparation sur le fond commun"
+  ],
+  "screenshot": "home-circular-carousel.png",
+  "deployment": false
+}

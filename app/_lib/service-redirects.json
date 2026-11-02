@@ -1,0 +1,147 @@
+[
+  {
+    "source": "/accompagnement/creer-son-entreprise",
+    "destination": "/accompagnement/faire-avancer-son-projet#creation-entreprise",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/mieux-presenter-son-activite",
+    "destination": "/accompagnement/developper-sa-visibilite#presentation-activite",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/trouver-de-nouveaux-clients",
+    "destination": "/accompagnement/developper-sa-visibilite#prospection",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/entretenir-ses-relations-clients",
+    "destination": "/accompagnement/developper-sa-visibilite#relations-clients",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/developper-son-reseau-professionnel",
+    "destination": "/accompagnement/developper-sa-visibilite#reseau-professionnel",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/choisir-ses-outils",
+    "destination": "/accompagnement/simplifier-son-organisation#logiciels",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/comparer-des-devis",
+    "destination": "/accompagnement/comparer-avant-acheter#devis",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/faire-des-economies",
+    "destination": "/accompagnement/mieux-gerer-son-budget#economies",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/choisir-du-materiel",
+    "destination": "/accompagnement/comparer-avant-acheter#materiel",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/trouver-un-vehicule",
+    "destination": "/accompagnement/comparer-avant-acheter#vehicule",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/organiser-un-sejour",
+    "destination": "/accompagnement/preparer-ses-deplacements#sejours",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/trouver-un-lieu",
+    "destination": "/accompagnement/organiser-un-evenement#lieux",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/preparer-une-attention-d-anniversaire",
+    "destination": "/accompagnement/trouver-le-cadeau-adapte#anniversaires",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/trouver-un-spectacle-ou-une-sortie",
+    "destination": "/accompagnement/concretiser-un-projet-personnel#sorties-spectacles",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/faire-face-a-un-imprevu",
+    "destination": "/accompagnement/concretiser-un-projet-personnel#imprevus",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/clarifier-ses-priorites",
+    "destination": "/accompagnement/faire-avancer-son-projet#projet-professionnel",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/projet-entreprise",
+    "destination": "/accompagnement/faire-avancer-son-projet",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/developpement-activite",
+    "destination": "/accompagnement/developper-sa-visibilite",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/organisation-outils",
+    "destination": "/accompagnement/simplifier-son-organisation",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/recherche-prestataire",
+    "destination": "/accompagnement/trouver-le-bon-professionnel",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/comparaison-achats",
+    "destination": "/accompagnement/comparer-avant-acheter",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/organisation-budget",
+    "destination": "/accompagnement/mieux-gerer-son-budget",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/deplacements-sejours",
+    "destination": "/accompagnement/preparer-ses-deplacements",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/organisation-evenement",
+    "destination": "/accompagnement/organiser-un-evenement",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/cadeaux-anniversaires",
+    "destination": "/accompagnement/trouver-le-cadeau-adapte",
+    "permanent": true
+  },
+  {
+    "source": "/accompagnement/projets-personnels",
+    "destination": "/accompagnement/concretiser-un-projet-personnel",
+    "permanent": true
+  },
+  {
+    "source": "/solutions/suivi-dossier-immobilier",
+    "destination": "/immobilier",
+    "permanent": true
+  },
+  {
+    "source": "/progressive-pulse",
+    "destination": "/immobilier",
+    "permanent": true
+  },
+  {
+    "source": "/farmasi",
+    "destination": "/accompagnement/prendre-soin-de-sa-forme#farmasi",
+    "permanent": true
+  }
+]

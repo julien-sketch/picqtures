@@ -1,0 +1,670 @@
+[
+  {
+    "slug": "faire-avancer-son-projet",
+    "title": "Faire avancer son entreprise",
+    "seoTitle": "Création et projets d’entreprise | PICQ’TURES",
+    "description": "Création d’activité ou nouveau projet : PICQ’TURES vous aide à clarifier vos choix, comprendre les étapes et rechercher les interlocuteurs adaptés.",
+    "heading": "Votre projet d’entreprise, une étape après l’autre.",
+    "intro": [
+      "Créer votre activité, lancer une nouvelle offre ou concrétiser une idée soulève beaucoup de questions. Par quoi commencer ? Quelles informations rechercher ? À qui s’adresser ?",
+      "Je vous accompagne pour préciser votre projet, comprendre les options et préparer les prochaines démarches."
+    ],
+    "cta": "Faire le point sur mon projet",
+    "related": [
+      "developper-sa-visibilite",
+      "trouver-le-bon-professionnel"
+    ],
+    "sections": [
+      {
+        "id": "projet-professionnel",
+        "title": "Ce que nous pouvons travailler ensemble",
+        "paragraphs": [],
+        "items": [
+          "Clarifier votre idée et les besoins auxquels elle répond.",
+          "Identifier les questions à traiter avant de commencer.",
+          "Comprendre le déroulement des démarches de création.",
+          "Rechercher les ressources et les professionnels utiles.",
+          "Préparer et suivre les actions convenues."
+        ],
+        "itemIds": [],
+        "subsections": []
+      },
+      {
+        "id": "creation-entreprise",
+        "title": "Un exemple d’accompagnement",
+        "paragraphs": [],
+        "items": [],
+        "itemIds": [],
+        "subsections": [
+          {
+            "title": "Comprendre les étapes d’une création de microentreprise",
+            "paragraphs": [
+              "J’ai accompagné une cliente dans son projet de création d’une microentreprise dans le secteur médical. Nous avons abordé les choix à examiner, leurs implications et le fonctionnement de l’activité pour lui permettre de mieux comprendre le processus.",
+              "Les questions spécialisées ou les conditions propres à l’activité sont à examiner avec les organismes et professionnels compétents."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Comment se déroule l’accompagnement ?",
+        "paragraphs": [
+          "Nous partons de votre situation : ce qui est déjà décidé, ce qui reste à comprendre et ce qui vous bloque. Je vous aide ensuite à organiser les étapes et à rechercher les réponses nécessaires.",
+          "Vous pouvez me solliciter sur une question précise ou me confier un accompagnement plus large, avec un périmètre défini ensemble."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "slug": "developper-sa-visibilite",
+    "title": "Développer son activité",
+    "seoTitle": "Accompagnement marketing et commercial | PICQ’TURES",
+    "description": "Offre, tarifs, textes de vente, visibilité et prospection : PICQ’TURES accompagne les dirigeants dans leurs actions marketing et commerciales.",
+    "heading": "Une offre claire et des actions commerciales mieux préparées.",
+    "intro": [
+      "Vous souhaitez mieux présenter votre activité, vous faire connaître ou développer vos démarches commerciales ?",
+      "Je vous apporte un regard extérieur sur votre offre et vos supports, puis je vous accompagne dans les actions retenues. Nous partons de votre activité et de vos moyens pour choisir les priorités."
+    ],
+    "cta": "Échanger sur mon activité",
+    "related": [
+      "faire-avancer-son-projet",
+      "simplifier-son-organisation"
+    ],
+    "sections": [
+      {
+        "id": "presentation-activite",
+        "title": "Ce que vous pouvez me confier",
+        "paragraphs": [],
+        "items": [
+          "Clarifier la présentation de vos services.",
+          "Simplifier la lecture de vos tarifs.",
+          "Revoir vos textes de vente.",
+          "Préparer vos messages et vos échanges commerciaux.",
+          "Choisir vos actions de communication.",
+          "Rechercher et coordonner des prestataires."
+        ],
+        "itemIds": [
+          "",
+          "",
+          "",
+          "prospection",
+          "visibilite",
+          "reseau-professionnel"
+        ],
+        "subsections": []
+      },
+      {
+        "id": "exemples",
+        "title": "Des missions réalisées",
+        "paragraphs": [],
+        "items": [],
+        "itemIds": [],
+        "subsections": [
+          {
+            "title": "Revoir une offre commerciale",
+            "paragraphs": [
+              "J’ai accompagné un professionnel dans la simplification de ses tarifs et la réécriture de ses textes de vente. Le travail a également porté sur ses techniques commerciales et marketing, pour mieux préparer la présentation de son offre aux prospects."
+            ]
+          },
+          {
+            "title": "Créer une présence en ligne",
+            "paragraphs": [
+              "J’ai réalisé une landing page pour une activité de location de matériel et un site pour une conseillère en gestion de patrimoine.",
+              "J’accompagne également un commerce local sur son marketing, sa communication et la création de son site e-commerce. Ce projet, encore en cours, vise notamment à simplifier les commandes groupées."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Du conseil à la réalisation",
+        "paragraphs": [
+          "Selon votre besoin, mon intervention peut se limiter à un avis ou inclure la rédaction, la préparation des supports et la coordination des actions convenues.",
+          "Les objectifs commerciaux sont définis ensemble, sans promesse de volume de prospects ou de ventes."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": [],
+        "paragraphIds": [
+          "relations-clients",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "simplifier-son-organisation",
+    "title": "Simplifier son organisation",
+    "seoTitle": "Organisation et choix des outils | PICQ’TURES",
+    "description": "Logiciels, suivi client et tâches répétitives : PICQ’TURES vous aide à rechercher des solutions adaptées à votre organisation et à vos usages.",
+    "heading": "Des outils et une organisation adaptés à votre quotidien.",
+    "intro": [
+      "Vous passez du temps à rechercher des informations, à répondre aux mêmes questions ou à suivre vos dossiers dans plusieurs outils ?",
+      "Je vous aide à examiner votre fonctionnement et à rechercher des solutions adaptées. L’objectif est de répondre à vos besoins réels avant d’ajouter un nouveau logiciel ou une nouvelle procédure."
+    ],
+    "cta": "Faire le point sur mon organisation",
+    "related": [
+      "/immobilier",
+      "developper-sa-visibilite"
+    ],
+    "sections": [
+      {
+        "id": "organisation",
+        "title": "Les sujets que nous pouvons examiner",
+        "paragraphs": [],
+        "items": [
+          "Le choix de vos logiciels.",
+          "Le suivi de vos clients et de vos dossiers.",
+          "La centralisation des informations utiles.",
+          "L’organisation des tâches et des échéances.",
+          "Les possibilités d’automatisation.",
+          "La recherche d’un prestataire technique."
+        ],
+        "itemIds": [
+          "logiciels"
+        ],
+        "subsections": []
+      },
+      {
+        "id": "exemples",
+        "title": "Un exemple de réalisation",
+        "paragraphs": [],
+        "items": [],
+        "itemIds": [],
+        "subsections": [
+          {
+            "title": "Un outil de suivi pour un agent immobilier",
+            "paragraphs": [
+              "J’ai créé un outil permettant à un agent immobilier d’ouvrir un dossier client et d’en actualiser les étapes. Le client consulte son dossier pour distinguer les étapes terminées de celles restant à réaliser.",
+              "L’information visible dépend des mises à jour effectuées par l’agent immobilier."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Comment j’interviens",
+        "paragraphs": [
+          "Nous identifions d’abord les difficultés et les outils déjà utilisés. Je vous présente ensuite des options en tenant compte de vos usages, de votre budget et des changements nécessaires.",
+          "Une recherche ou une comparaison peut rester ponctuelle. Une configuration importante ou un développement fait l’objet d’une mission définie séparément."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "slug": "trouver-le-bon-professionnel",
+    "title": "Trouver un professionnel",
+    "seoTitle": "Recherche de professionnels et prestataires | PICQ’TURES",
+    "description": "Recherchez les compétences adaptées à votre besoin professionnel ou personnel : sélection, comparaison et mise en relation avec PICQ’TURES.",
+    "heading": "Le bon point de départ pour trouver un professionnel.",
+    "intro": [
+      "Vous cherchez un prestataire, mais vous ne savez pas qui contacter ni comment comparer les propositions ?",
+      "Je vous aide à préciser votre demande, à rechercher les compétences utiles et à recueillir les informations nécessaires à votre choix."
+    ],
+    "cta": "Confier ma recherche",
+    "related": [
+      "comparer-avant-acheter",
+      "organiser-un-evenement"
+    ],
+    "sections": [
+      {
+        "id": "vos-besoins",
+        "title": "Une recherche selon vos critères",
+        "paragraphs": [],
+        "items": [
+          "Nature de la prestation.",
+          "Compétences et qualifications nécessaires.",
+          "Zone d’intervention.",
+          "Disponibilités.",
+          "Budget et conditions proposées."
+        ],
+        "itemIds": [],
+        "subsections": []
+      },
+      {
+        "id": "exemples",
+        "title": "Des situations prises en charge",
+        "paragraphs": [
+          "Je peux solliciter mon réseau ou rechercher de nouveaux intervenants selon votre demande."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": [
+          {
+            "title": "Débloquer une recherche d’assurance",
+            "paragraphs": [
+              "Un client se trouvait bloqué avec un véhicule sans assurance. J’ai recherché une solution auprès des interlocuteurs adaptés, ce qui lui a permis de trouver une assurance et de débloquer la situation."
+            ]
+          },
+          {
+            "title": "Mobiliser une compétence juridique",
+            "paragraphs": [
+              "Pour des situations de conflit, j’ai facilité l’accès à un professionnel du conseil juridique afin de rechercher des solutions. L’analyse et le conseil spécialisés relèvent de ce professionnel."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Qui conseille, réalise et facture ?",
+        "paragraphs": [
+          "Nous clarifions les rôles avant votre engagement. Je prends en charge la recherche et les démarches convenues. Le professionnel retenu définit sa prestation, ses conditions et sa facturation."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "slug": "comparer-avant-acheter",
+    "title": "Comparer avant d’acheter",
+    "seoTitle": "Comparaison de devis et recherche d’achats | PICQ’TURES",
+    "description": "Matériel, véhicule, contrats ou prestations : PICQ’TURES recherche et compare les offres selon votre besoin, votre budget et vos critères.",
+    "heading": "Comparer ce qui compte avant de vous engager.",
+    "intro": [
+      "Vous devez choisir un équipement, un véhicule ou une prestation ? Entre les caractéristiques, les prix et les conditions, les offres ne sont pas toujours faciles à comparer.",
+      "Je vous aide à définir vos critères et à rechercher les options qui correspondent à votre demande."
+    ],
+    "cta": "Préparer mon achat",
+    "related": [
+      "mieux-gerer-son-budget",
+      "trouver-le-bon-professionnel"
+    ],
+    "sections": [
+      {
+        "id": "vos-besoins",
+        "title": "Les recherches que vous pouvez me confier",
+        "paragraphs": [],
+        "items": [
+          "Matériel informatique.",
+          "Équipements professionnels ou personnels.",
+          "Véhicules et utilitaires.",
+          "Devis de prestataires.",
+          "Contrats et abonnements.",
+          "Disponibilités et conditions d’achat."
+        ],
+        "itemIds": [
+          "materiel",
+          "",
+          "vehicule",
+          "devis"
+        ],
+        "subsections": []
+      },
+      {
+        "id": "exemples",
+        "title": "Des missions réalisées",
+        "paragraphs": [
+          "J’ai recherché des véhicules haut de gamme, des utilitaires pour des artisans et du matériel informatique. Les comparaisons ont été réalisées en fonction du budget et des besoins exprimés par chaque client."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Regarder au-delà du prix affiché",
+        "paragraphs": [
+          "Selon l’achat, je rassemble les éléments utiles : caractéristiques, disponibilité, livraison, frais annexes et conditions proposées.",
+          "Vous validez votre choix avant toute démarche engageante. La recherche vise une solution adaptée, sans promesse d’obtenir systématiquement le prix le plus bas."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "slug": "mieux-gerer-son-budget",
+    "title": "Mieux gérer son budget",
+    "seoTitle": "Organisation du budget et recherche d’économies | PICQ’TURES",
+    "description": "Faites le point sur vos dépenses et abonnements. PICQ’TURES vous accompagne dans leur suivi et la recherche d’options adaptées à votre budget.",
+    "heading": "Comprendre vos dépenses et examiner les économies possibles.",
+    "intro": [
+      "Des abonnements peu utilisés, des contrats renouvelés sans comparaison ou des dépenses difficiles à suivre ?",
+      "Je vous aide à rassembler les informations, à examiner les dépenses concernées et à rechercher les options disponibles."
+    ],
+    "cta": "Faire le point sur mes dépenses",
+    "related": [
+      "comparer-avant-acheter",
+      "simplifier-son-organisation"
+    ],
+    "sections": [
+      {
+        "id": "vos-besoins",
+        "title": "Ce que nous pouvons revoir",
+        "paragraphs": [],
+        "items": [
+          "Les abonnements utilisés ou devenus inutiles.",
+          "Les contrats d’énergie.",
+          "Les options de certains contrats.",
+          "Les logiciels et leurs formules.",
+          "Le suivi des dépenses et des échéances.",
+          "Les possibilités de simplification ou d’automatisation."
+        ],
+        "itemIds": [],
+        "subsections": []
+      },
+      {
+        "id": "economies",
+        "title": "Un résultat constaté",
+        "paragraphs": [],
+        "items": [],
+        "itemIds": [],
+        "subsections": [
+          {
+            "title": "387 € d’économies par mois pour une entreprise",
+            "paragraphs": [
+              "Une mission a porté sur le contrat de comptabilité, l’énergie, les options d’assurance des véhicules et plusieurs abonnements numériques.",
+              "Après les changements, l’entreprise a constaté une économie de 387 € par mois par rapport aux anciens contrats. Ce montant correspond à cette situation particulière ; il ne préjuge pas des économies possibles pour une autre entreprise."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Une lecture adaptée à votre demande",
+        "paragraphs": [
+          "Nous définissons les dépenses à examiner et les informations nécessaires. Je vous aide à comparer les possibilités, puis à suivre les démarches validées.",
+          "Cet accompagnement concerne l’organisation du budget. Les questions comptables, fiscales, de financement ou de placement nécessitent les professionnels compétents."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "slug": "preparer-ses-deplacements",
+    "title": "Préparer ses déplacements",
+    "seoTitle": "Recherche de déplacements et de séjours | PICQ’TURES",
+    "description": "Transports, hébergements et réservations : PICQ’TURES recherche les options adaptées à vos déplacements professionnels et personnels.",
+    "heading": "Des recherches adaptées à votre destination et à vos contraintes.",
+    "intro": [
+      "Un déplacement professionnel, un court séjour ou un changement de programme ? Je vous aide à rechercher les possibilités et à comparer les conditions avant votre choix."
+    ],
+    "cta": "Échanger sur mon déplacement",
+    "related": [
+      "concretiser-un-projet-personnel",
+      "organiser-un-evenement"
+    ],
+    "sections": [
+      {
+        "id": "deplacements",
+        "title": "Ce que vous pouvez me confier",
+        "paragraphs": [],
+        "items": [
+          "La recherche de trajets.",
+          "La comparaison d’hébergements.",
+          "La recherche de transports sur place.",
+          "Les disponibilités de restaurants ou d’activités.",
+          "L’accompagnement aux réservations courantes."
+        ],
+        "itemIds": [
+          "",
+          "sejours"
+        ],
+        "subsections": []
+      },
+      {
+        "id": "exemples",
+        "title": "Un exemple de prise en charge",
+        "paragraphs": [],
+        "items": [],
+        "itemIds": [],
+        "subsections": [
+          {
+            "title": "Trouver un transport après un changement de vol",
+            "paragraphs": [
+              "À la suite d’une urgence, un client a dû prendre un autre vol et arriver dans un nouvel aéroport. J’ai recherché un transport pour lui permettre de rejoindre son véhicule.",
+              "J’ai également réalisé des recherches pour de courts séjours à l’occasion d’anniversaires."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Vous choisissez avant de réserver",
+        "paragraphs": [
+          "Je vous présente les options disponibles et leurs conditions au moment de la recherche. Vous validez les prestations et réglez directement les prestataires.",
+          "Une organisation complexe nécessite un périmètre et un cadre adaptés, avec l’intervention d’un professionnel du voyage lorsque nécessaire."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "slug": "organiser-un-evenement",
+    "title": "Organiser un événement",
+    "seoTitle": "Organisation d’événements et recherche de lieux | PICQ’TURES",
+    "description": "Anniversaire ou événement professionnel : PICQ’TURES vous accompagne dans la recherche de lieux, de prestataires et les démarches convenues.",
+    "heading": "Votre événement commence par quelques choix bien préparés.",
+    "intro": [
+      "Vous souhaitez organiser un anniversaire, une rencontre professionnelle ou une soirée avec vos clients ?",
+      "Je vous accompagne pour préciser le format, rechercher les lieux et les intervenants, puis suivre les démarches que vous souhaitez me confier."
+    ],
+    "cta": "Préparer mon événement",
+    "related": [
+      "trouver-le-bon-professionnel",
+      "trouver-le-cadeau-adapte"
+    ],
+    "sections": [
+      {
+        "id": "vos-besoins",
+        "title": "Selon votre besoin",
+        "paragraphs": [],
+        "items": [
+          "Recherche de lieux et de disponibilités.",
+          "Comparaison de propositions.",
+          "Recherche d’activités ou d’animations.",
+          "Préparation des invitations.",
+          "Recherche des conditions d’accueil et démarches à prévoir.",
+          "Coordination des intervenants selon la mission convenue."
+        ],
+        "itemIds": [
+          "lieux"
+        ],
+        "subsections": []
+      },
+      {
+        "id": "exemples",
+        "title": "Une réalisation concrète",
+        "paragraphs": [],
+        "items": [],
+        "itemIds": [],
+        "subsections": [
+          {
+            "title": "Préparer l’anniversaire d’une adolescente",
+            "paragraphs": [
+              "J’ai accompagné l’organisation d’un anniversaire réunissant une adolescente et ses amies : recherche du lieu, préparation des invitations et recherche des conditions et démarches à prendre en compte."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Une recherche ponctuelle ou une organisation plus large",
+        "paragraphs": [
+          "Vous pouvez me confier uniquement la recherche d’un lieu ou d’une animation. Une organisation importante fait l’objet d’un devis précisant les actions prises en charge.",
+          "Les engagements et dépenses sont validés avec vous avant leur réalisation."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "slug": "trouver-le-cadeau-adapte",
+    "title": "Préparer ses cadeaux et anniversaires",
+    "seoTitle": "Recherche de cadeaux clients et personnels | PICQ’TURES",
+    "description": "Cadeaux clients, anniversaires et occasions personnelles : PICQ’TURES recherche des idées adaptées au destinataire, au budget et au délai.",
+    "heading": "Une attention choisie pour la personne qui la reçoit.",
+    "intro": [
+      "Un anniversaire approche, vous souhaitez remercier un client ou marquer une occasion personnelle ?",
+      "Je recherche des idées en tenant compte du destinataire, de ses préférences, de votre budget et du temps disponible."
+    ],
+    "cta": "Trouver une idée de cadeau",
+    "related": [
+      "preparer-ses-deplacements",
+      "organiser-un-evenement"
+    ],
+    "sections": [
+      {
+        "id": "cadeaux",
+        "title": "Les demandes possibles",
+        "paragraphs": [],
+        "items": [
+          "Trouver un cadeau personnel ou professionnel.",
+          "Rechercher une expérience à offrir.",
+          "Comparer des produits et leurs disponibilités.",
+          "Préparer une attention pour un anniversaire de mariage.",
+          "Rechercher les options de personnalisation et de livraison."
+        ],
+        "itemIds": [
+          "",
+          "",
+          "",
+          "anniversaires"
+        ],
+        "subsections": []
+      },
+      {
+        "id": "exemples",
+        "title": "Des demandes déjà réalisées",
+        "paragraphs": [
+          "J’ai recherché des cadeaux d’anniversaire et des attentions pour des premier et deuxième anniversaires de mariage. Certaines demandes ont également porté sur la préparation d’un court séjour et la recherche de lieux."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Anticiper les occasions que vous souhaitez suivre",
+        "paragraphs": [
+          "Avec votre accord, nous pouvons identifier les dates et les préférences utiles à cet accompagnement. Vous validez la proposition avant les démarches d’achat ou de réservation.",
+          "Les produits, prestations et frais de livraison restent à votre charge."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "slug": "concretiser-un-projet-personnel",
+    "title": "Concrétiser ses projets personnels",
+    "seoTitle": "Recherche de sorties et projets personnels | PICQ’TURES",
+    "description": "Activités en famille, spectacles, restaurants et projets du quotidien : PICQ’TURES recherche les options adaptées à vos envies et contraintes.",
+    "heading": "Donnez une suite à vos envies et à vos projets personnels.",
+    "intro": [
+      "Vous cherchez une activité avec vos enfants, des places de spectacle ou un restaurant pour une occasion particulière ?",
+      "Je prends en compte vos critères et recherche les possibilités. Vous pouvez me confier une demande précise ou commencer par une idée à explorer."
+    ],
+    "cta": "Échanger sur mon projet personnel",
+    "related": [
+      "preparer-ses-deplacements",
+      "trouver-le-cadeau-adapte"
+    ],
+    "sections": [
+      {
+        "id": "sorties-spectacles",
+        "title": "Les recherches possibles",
+        "paragraphs": [],
+        "items": [
+          "Sorties et activités en famille.",
+          "Spectacles adaptés aux participants.",
+          "Restaurants et disponibilités.",
+          "Activités pour un anniversaire.",
+          "Professionnels utiles à un projet personnel."
+        ],
+        "itemIds": [],
+        "subsections": []
+      },
+      {
+        "id": "exemples",
+        "title": "Des exemples de demandes réalisées",
+        "paragraphs": [
+          "J’ai recherché des places de spectacle pour une sortie avec des enfants, des activités pour un anniversaire entre amies et réalisé des réservations de restaurants à Paris."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Vos préférences guident la recherche",
+        "paragraphs": [
+          "Dates, localisation, budget, âge des participants ou contraintes pratiques : nous retenons les informations utiles à votre demande.",
+          "Je vous présente les options trouvées, puis réalise les démarches convenues après votre accord. Les disponibilités et les conditions restent celles des prestataires."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      },
+      {
+        "id": "imprevus",
+        "title": "Faire face à un imprévu",
+        "paragraphs": [
+          "Un changement de programme ou une difficulté pratique ? Je recherche les options et les interlocuteurs utiles selon la situation et mes disponibilités. La prise en charge est précisée avant d’engager les démarches."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "slug": "prendre-soin-de-sa-forme",
+    "title": "Prendre soin de sa forme",
+    "seoTitle": "Habitudes de vie et accompagnement pratique | PICQ’TURES",
+    "description": "Repas, activité physique et quotidien chargé : PICQ’TURES vous aide à rechercher des solutions pratiques et les professionnels adaptés à votre besoin.",
+    "heading": "Faire une place à votre forme dans un quotidien chargé.",
+    "intro": [
+      "Des repas improvisés, peu de temps pour pratiquer une activité physique ou l’envie de revoir certaines habitudes ?",
+      "Je vous aide à préciser votre demande et à rechercher des solutions pratiques compatibles avec votre organisation."
+    ],
+    "cta": "Échanger sur mon besoin",
+    "related": [
+      "concretiser-un-projet-personnel",
+      "trouver-le-bon-professionnel"
+    ],
+    "sections": [
+      {
+        "id": "vos-besoins",
+        "title": "Ce que vous pouvez me confier",
+        "paragraphs": [],
+        "items": [
+          "Rechercher des solutions pour organiser vos repas.",
+          "Trouver une activité selon vos envies et vos disponibilités.",
+          "Comparer des salles ou des propositions d’accompagnement.",
+          "Rechercher un diététicien ou un professionnel du sport.",
+          "Faciliter une prise de contact ou une réservation."
+        ],
+        "itemIds": [],
+        "subsections": []
+      },
+      {
+        "id": "fonctionnement",
+        "title": "Mon rôle dans cet accompagnement",
+        "paragraphs": [
+          "Mes connaissances sur l’alimentation sont acquises en autodidacte. Je ne dispose pas de diplôme en nutrition et ne propose pas de bilan nutritionnel ou de programme personnalisé.",
+          "Mon intervention porte sur l’organisation pratique, la recherche de ressources générales et la mise en relation. Une fatigue persistante ou une question de santé est à examiner avec un professionnel de santé."
+        ],
+        "items": [],
+        "itemIds": [],
+        "subsections": []
+      }
+    ]
+  }
+]

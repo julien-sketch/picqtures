@@ -1,0 +1,23 @@
+{
+  "subjects": 26,
+  "distinctIcons": 26,
+  "build": "passed",
+  "typecheck": "passed",
+  "browserChecks": [
+    "boucle 26 vers 1",
+    "boucle 1 vers 26",
+    "boutons précédent et suivant",
+    "flèches clavier",
+    "glissement sans navigation accidentelle",
+    "26 liens dans Voir tous les sujets",
+    "sélection conservée au redimensionnement",
+    "desktop 1440 × 960 sans débordement",
+    "mobile 390 × 844 sans débordement"
+  ],
+  "routeChecks": "14 pages, 26 liens et ancres, 29 redirections vérifiés",
+  "screenshots": [
+    "home-horizontal-desktop.png",
+    "home-horizontal-mobile.png"
+  ],
+  "deployment": false
+}
