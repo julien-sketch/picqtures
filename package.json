@@ -7,10 +7,11 @@
     "dev": "npm run clean && next dev",
     "build": "npm run clean && next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test:contact": "node --test tests/contact-message.test.mjs"
   },
   "dependencies": {
-    "next": "15.5.15",
+    "next": "15.5.29",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
@@ -19,8 +20,13 @@
     "@types/node": "22.14.1",
     "@types/react": "19.1.2",
     "@types/react-dom": "19.1.2",
-    "postcss": "8.5.3",
+    "postcss": "8.5.23",
     "tailwindcss": "4.1.4",
     "typescript": "5.8.3"
+  },
+  "overrides": {
+    "next": {
+      "postcss": "8.5.23"
+    }
   }
 }

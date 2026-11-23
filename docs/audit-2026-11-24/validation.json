@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-23T23:31:44.998204+00:00",
+  "baseCommit": "7133677174eaf6bbb1d5d73f98082d4f58b52e4b",
+  "profiles": 5,
+  "findings": 8,
+  "fixed": [
+    "A01",
+    "A02",
+    "A03"
+  ],
+  "open": [
+    "A04",
+    "A05",
+    "A06",
+    "A07",
+    "A08"
+  ],
+  "validation": {
+    "cleanInstall": "npm ci --no-fund --no-audit: exit 0",
+    "securityAudit": {
+      "info": 0,
+      "low": 0,
+      "moderate": 0,
+      "high": 0,
+      "critical": 0,
+      "total": 0
+    },
+    "unitTests": {
+      "command": "npm run test:contact",
+      "passed": 5,
+      "failed": 0
+    },
+    "productionBuild": "PICQTURES_NEXT_DIR=.next-audit npm run build: exit 0, Next 15.5.29, 24 static pages",
+    "browserReplays": [
+      "whitespace rejected with alert",
+      "emojis and pasted table preserved",
+      "5000 accented characters preserved with manual-copy fallback",
+      "editing clears previous preview",
+      "double-click preparation: one preview, no navigation, no URL query data"
+    ],
+    "notExecuted": [
+      "real email delivery",
+      "mobile viewport and real phone",
+      "network throttling/offline",
+      "cross-account access and payment (not present in this repository)",
+      "security exploitation",
+      "production deployment"
+    ]
+  }
+}
